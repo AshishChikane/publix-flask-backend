@@ -1,13 +1,15 @@
-from Config.db import db
+from Config.db import Base
+from sqlalchemy import Column, Integer, String
 
-class AdMedia(db.Model):
+
+class AdMedia(Base):
     __tablename__ = 'tbl_ad_media'
 
-    id = db.Column(db.Integer, primary_key=True, autoincrement=True, nullable=False)
+    id = Column(Integer, primary_key=True, autoincrement=True, nullable=False)
 
-    ad_id = db.Column(db.Integer)
+    ad_id = Column(Integer)
 
-    screen_resolution_width = db.Column(db.Integer)
-    screen_resolution_height = db.Column(db.Integer)
+    screen_resolution_width = Column(Integer)
+    screen_resolution_height = Column(Integer)
 
-    media_url = db.Column(db.String(255)) 
+    media_url = Column(String(255)) 

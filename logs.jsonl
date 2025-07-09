@@ -1,0 +1,1010 @@
+{"query": "how many campaigns are there", "category": "data", "response": "[{'id': 1, 'name': 'DND', 'is_active': 2}, {'id': 2, 'name': 'Office Right Screen', 'is_active': 2}, {'id': 3, 'name': 'PS Cabin Test', 'is_active': 2}, {'id': 4, 'name': 'PS Cabin 2', 'is_active': 2}, {'id': 5, 'name': 'Campaign 3', 'is_active': 2}, {'id': 6, 'name': 'Maruti Suzuki', 'is_active': 2}, {'id': 7, 'name': 'Baleno', 'is_active': 2}, {'id': 8, 'name': 'Test Campaign', 'is_active': 2}, {'id': 9, 'name': 'LED_Tum Kya Ho', 'is_active': 2}, {'id': 10, 'name': 'Samsung Test', 'is_active': 2}, {'id': 11, 'name': 'Carlsberg', 'is_active': 2}, {'id': 12, 'name': 'Live_DND', 'is_active': 1}, {'id': 13, 'name': 'Ariana Test Blockchain AD', 'is_active': 2}, {'id': 14, 'name': 'Ariana Without Blockchain', 'is_active': 2}, {'id': 15, 'name': 'Test Campaign 1', 'is_active': 2}, {'id': 16, 'name': 'Test Campaign 2', 'is_active': 2}, {'id': 17, 'name': 'Prime Test Campaign', 'is_active': 2}, {'id': 18, 'name': 'Emirates Demo', 'is_active': 2}, {'id': 19, 'name': 'RAK Bank 1', 'is_active': 2}, {'id': 20, 'name': 'CT Finals', 'is_active': 0}, {'id': 21, 'name': 'into the finals', 'is_active': 2}, {'id': 22, 'name': 'Priya PVR XXL', 'is_active': 2}, {'id': 23, 'name': 'Nescafe Cold Coffee', 'is_active': 2}, {'id': 24, 'name': 'Kotak ActivMoney', 'is_active': 2}, {'id': 25, 'name': 'Cyber Crime - Delhi Police', 'is_active': 2}, {'id': 26, 'name': 'A3 Charge - Powerbank', 'is_active': 2}, {'id': 27, 'name': 'Contact us', 'is_active': 2}, {'id': 28, 'name': 'Samsung S25 ', 'is_active': 2}, {'id': 29, 'name': 'Samsung S25', 'is_active': 2}, {'id': 30, 'name': 'Emv', 'is_active': 2}, {'id': 31, 'name': 'Signaxe_Test', 'is_active': 2}, {'id': 32, 'name': 'Vast Test - Campaign', 'is_active': 2}, {'id': 33, 'name': 'Samsung S25', 'is_active': 2}, {'id': 34, 'name': 'Intrnal Test_ LED', 'is_active': 0}, {'id': 35, 'name': 'Internal Test ', 'is_active': 2}, {'id': 36, 'name': 'A3 Charge - Powerbank - 02', 'is_active': 1}, {'id': 37, 'name': 'Trident_Test', 'is_active': 1}]"}
+{"query": "how many brands are there", "category": "data", "response": "[{'id': 1, 'name': 'TT_Alcobev'}, {'id': 2, 'name': 'TT_Ent'}, {'id': 3, 'name': 'TT_LED'}, {'id': 4, 'name': 'Ariana Test '}, {'id': 5, 'name': 'Emirates Demo'}, {'id': 6, 'name': 'Amazon Prime Demo'}, {'id': 7, 'name': 'RAK Bank'}, {'id': 8, 'name': 'BCCI'}, {'id': 9, 'name': 'Nescafe'}, {'id': 10, 'name': 'Kotak'}, {'id': 11, 'name': 'Delhi Police'}, {'id': 12, 'name': 'A3 Charge'}, {'id': 13, 'name': 'Qatar Airways'}, {'id': 14, 'name': 'Nike'}, {'id': 15, 'name': 'EMV'}, {'id': 16, 'name': 'Samsung'}]"}
+{"query": "can you give me active campaigns only", "category": "data", "response": "[{'id': 1, 'name': 'DND', 'is_active': 2}, {'id': 2, 'name': 'Office Right Screen', 'is_active': 2}, {'id': 3, 'name': 'PS Cabin Test', 'is_active': 2}, {'id': 4, 'name': 'PS Cabin 2', 'is_active': 2}, {'id': 5, 'name': 'Campaign 3', 'is_active': 2}, {'id': 6, 'name': 'Maruti Suzuki', 'is_active': 2}, {'id': 7, 'name': 'Baleno', 'is_active': 2}, {'id': 8, 'name': 'Test Campaign', 'is_active': 2}, {'id': 9, 'name': 'LED_Tum Kya Ho', 'is_active': 2}, {'id': 10, 'name': 'Samsung Test', 'is_active': 2}, {'id': 11, 'name': 'Carlsberg', 'is_active': 2}, {'id': 12, 'name': 'Live_DND', 'is_active': 1}, {'id': 13, 'name': 'Ariana Test Blockchain AD', 'is_active': 2}, {'id': 14, 'name': 'Ariana Without Blockchain', 'is_active': 2}, {'id': 15, 'name': 'Test Campaign 1', 'is_active': 2}, {'id': 16, 'name': 'Test Campaign 2', 'is_active': 2}, {'id': 17, 'name': 'Prime Test Campaign', 'is_active': 2}, {'id': 18, 'name': 'Emirates Demo', 'is_active': 2}, {'id': 19, 'name': 'RAK Bank 1', 'is_active': 2}, {'id': 20, 'name': 'CT Finals', 'is_active': 0}, {'id': 21, 'name': 'into the finals', 'is_active': 2}, {'id': 22, 'name': 'Priya PVR XXL', 'is_active': 2}, {'id': 23, 'name': 'Nescafe Cold Coffee', 'is_active': 2}, {'id': 24, 'name': 'Kotak ActivMoney', 'is_active': 2}, {'id': 25, 'name': 'Cyber Crime - Delhi Police', 'is_active': 2}, {'id': 26, 'name': 'A3 Charge - Powerbank', 'is_active': 2}, {'id': 27, 'name': 'Contact us', 'is_active': 2}, {'id': 28, 'name': 'Samsung S25 ', 'is_active': 2}, {'id': 29, 'name': 'Samsung S25', 'is_active': 2}, {'id': 30, 'name': 'Emv', 'is_active': 2}, {'id': 31, 'name': 'Signaxe_Test', 'is_active': 2}, {'id': 32, 'name': 'Vast Test - Campaign', 'is_active': 2}, {'id': 33, 'name': 'Samsung S25', 'is_active': 2}, {'id': 34, 'name': 'Intrnal Test_ LED', 'is_active': 0}, {'id': 35, 'name': 'Internal Test ', 'is_active': 2}, {'id': 36, 'name': 'A3 Charge - Powerbank - 02', 'is_active': 1}, {'id': 37, 'name': 'Trident_Test', 'is_active': 1}]"}
+{"query": "can you give me active campaigns only", "category": "data", "response": "[{'id': 12, 'name': 'Live_DND', 'is_active': 1}, {'id': 36, 'name': 'A3 Charge - Powerbank - 02', 'is_active': 1}, {'id': 37, 'name': 'Trident_Test', 'is_active': 1}]"}
+{"query": "can you give me pending campaigns", "category": "data", "response": "[{'id': 20, 'name': 'CT Finals', 'is_active': 0}, {'id': 34, 'name': 'Intrnal Test_ LED', 'is_active': 0}]"}
+{"query": "can you give me rejected campaigns only", "category": "data", "response": "[{'id': 1, 'name': 'DND', 'is_active': 2}, {'id': 2, 'name': 'Office Right Screen', 'is_active': 2}, {'id': 3, 'name': 'PS Cabin Test', 'is_active': 2}, {'id': 4, 'name': 'PS Cabin 2', 'is_active': 2}, {'id': 5, 'name': 'Campaign 3', 'is_active': 2}, {'id': 6, 'name': 'Maruti Suzuki', 'is_active': 2}, {'id': 7, 'name': 'Baleno', 'is_active': 2}, {'id': 8, 'name': 'Test Campaign', 'is_active': 2}, {'id': 9, 'name': 'LED_Tum Kya Ho', 'is_active': 2}, {'id': 10, 'name': 'Samsung Test', 'is_active': 2}, {'id': 11, 'name': 'Carlsberg', 'is_active': 2}, {'id': 12, 'name': 'Live_DND', 'is_active': 1}, {'id': 13, 'name': 'Ariana Test Blockchain AD', 'is_active': 2}, {'id': 14, 'name': 'Ariana Without Blockchain', 'is_active': 2}, {'id': 15, 'name': 'Test Campaign 1', 'is_active': 2}, {'id': 16, 'name': 'Test Campaign 2', 'is_active': 2}, {'id': 17, 'name': 'Prime Test Campaign', 'is_active': 2}, {'id': 18, 'name': 'Emirates Demo', 'is_active': 2}, {'id': 19, 'name': 'RAK Bank 1', 'is_active': 2}, {'id': 20, 'name': 'CT Finals', 'is_active': 0}, {'id': 21, 'name': 'into the finals', 'is_active': 2}, {'id': 22, 'name': 'Priya PVR XXL', 'is_active': 2}, {'id': 23, 'name': 'Nescafe Cold Coffee', 'is_active': 2}, {'id': 24, 'name': 'Kotak ActivMoney', 'is_active': 2}, {'id': 25, 'name': 'Cyber Crime - Delhi Police', 'is_active': 2}, {'id': 26, 'name': 'A3 Charge - Powerbank', 'is_active': 2}, {'id': 27, 'name': 'Contact us', 'is_active': 2}, {'id': 28, 'name': 'Samsung S25 ', 'is_active': 2}, {'id': 29, 'name': 'Samsung S25', 'is_active': 2}, {'id': 30, 'name': 'Emv', 'is_active': 2}, {'id': 31, 'name': 'Signaxe_Test', 'is_active': 2}, {'id': 32, 'name': 'Vast Test - Campaign', 'is_active': 2}, {'id': 33, 'name': 'Samsung S25', 'is_active': 2}, {'id': 34, 'name': 'Intrnal Test_ LED', 'is_active': 0}, {'id': 35, 'name': 'Internal Test ', 'is_active': 2}, {'id': 36, 'name': 'A3 Charge - Powerbank - 02', 'is_active': 1}, {'id': 37, 'name': 'Trident_Test', 'is_active': 1}]"}
+{"query": "can you give me rejected campaigns only", "category": "data", "response": "[]"}
+{"query": "can you give me approve campaigns only", "category": "product", "response": "Here is the rewritten text, focusing only on approved campaigns:
+
+A Campaign is created by an Advertiser to achieve specific marketing objectives, such as driving brand awareness, increasing engagement, or generating conversions. The Advertiser can set up a campaign and customize its settings, including selecting targeting options such as multiple locations, screens, age groups, proximities, and more. This allows the Advertiser to precisely define where, when, and to whom the campaign will be shown. Once the campaign is set up with the relevant details and creatives, it is sent for approval, and upon approval, it becomes active for execution."}
+{"query": "can you give me list of active campaigns", "category": "data", "response": "[{'id': 12, 'name': 'Live_DND', 'is_active': 1}, {'id': 36, 'name': 'A3 Charge - Powerbank - 02', 'is_active': 1}, {'id': 37, 'name': 'Trident_Test', 'is_active': 1}]"}
+{"query": "can you give me in review campaigns", "category": "product", "response": "Here is a rewritten version of the text in a concise and professional tone, focusing on the review of campaigns:
+
+A Campaign is created by an Advertiser to achieve specific marketing objectives, such as driving brand awareness, increasing engagement, or generating conversions. The Advertiser can customize the campaign's settings, including targeting options, to precisely define where, when, and to whom the campaign will be shown. Once set up, the campaign is sent for approval, and upon approval, it becomes active for execution.
+
+A Creative refers to the actual ad content used in a campaign, designed to engage the target audience and achieve the campaign's objectives. Creatives can include various types of media, such as images, videos, and can be tailored to specific targeting parameters.
+
+A Brand is a unique identity created by an Advertiser or business to represent their products, services, or company in the market. Adding a brand allows the Advertiser to manage campaigns, creatives, and promotional activities under a specific brand identity, ensuring consistency across marketing efforts and enabling tracking of performance and target audience reach.
+
+A Publisher is an entity or platform that owns and manages advertising space or inventory, where Advertisers can display their ads. Publishers provide ad placements on various digital or physical properties, such as digital signage and physical screens. They allow Advertisers to access their inventory to reach a specific audience, and often monetize their platforms by selling ad space to Advertisers.
+
+I hope this rewritten version meets your requirements! Let me know if you have any further requests."}
+{"query": "how many campaigns are thre", "category": "data", "response": "[{'id': 1, 'name': 'DND', 'is_active': 2}, {'id': 2, 'name': 'Office Right Screen', 'is_active': 2}, {'id': 3, 'name': 'PS Cabin Test', 'is_active': 2}, {'id': 4, 'name': 'PS Cabin 2', 'is_active': 2}, {'id': 5, 'name': 'Campaign 3', 'is_active': 2}, {'id': 6, 'name': 'Maruti Suzuki', 'is_active': 2}, {'id': 7, 'name': 'Baleno', 'is_active': 2}, {'id': 8, 'name': 'Test Campaign', 'is_active': 2}, {'id': 9, 'name': 'LED_Tum Kya Ho', 'is_active': 2}, {'id': 10, 'name': 'Samsung Test', 'is_active': 2}, {'id': 11, 'name': 'Carlsberg', 'is_active': 2}, {'id': 12, 'name': 'Live_DND', 'is_active': 1}, {'id': 13, 'name': 'Ariana Test Blockchain AD', 'is_active': 2}, {'id': 14, 'name': 'Ariana Without Blockchain', 'is_active': 2}, {'id': 15, 'name': 'Test Campaign 1', 'is_active': 2}, {'id': 16, 'name': 'Test Campaign 2', 'is_active': 2}, {'id': 17, 'name': 'Prime Test Campaign', 'is_active': 2}, {'id': 18, 'name': 'Emirates Demo', 'is_active': 2}, {'id': 19, 'name': 'RAK Bank 1', 'is_active': 2}, {'id': 20, 'name': 'CT Finals', 'is_active': 0}, {'id': 21, 'name': 'into the finals', 'is_active': 2}, {'id': 22, 'name': 'Priya PVR XXL', 'is_active': 2}, {'id': 23, 'name': 'Nescafe Cold Coffee', 'is_active': 2}, {'id': 24, 'name': 'Kotak ActivMoney', 'is_active': 2}, {'id': 25, 'name': 'Cyber Crime - Delhi Police', 'is_active': 2}, {'id': 26, 'name': 'A3 Charge - Powerbank', 'is_active': 2}, {'id': 27, 'name': 'Contact us', 'is_active': 2}, {'id': 28, 'name': 'Samsung S25 ', 'is_active': 2}, {'id': 29, 'name': 'Samsung S25', 'is_active': 2}, {'id': 30, 'name': 'Emv', 'is_active': 2}, {'id': 31, 'name': 'Signaxe_Test', 'is_active': 2}, {'id': 32, 'name': 'Vast Test - Campaign', 'is_active': 2}, {'id': 33, 'name': 'Samsung S25', 'is_active': 2}, {'id': 34, 'name': 'Intrnal Test_ LED', 'is_active': 0}, {'id': 35, 'name': 'Internal Test ', 'is_active': 2}, {'id': 36, 'name': 'A3 Charge - Powerbank - 02', 'is_active': 1}, {'id': 37, 'name': 'Trident_Test', 'is_active': 1}]"}
+{"query": "how many are active", "category": "data", "response": "[{'id': 12, 'name': 'Live_DND', 'is_active': 1}, {'id': 36, 'name': 'A3 Charge - Powerbank - 02', 'is_active': 1}, {'id': 37, 'name': 'Trident_Test', 'is_active': 1}]"}
+{"query": "hey", "category": "product", "response": "I'm here to help! You wanted me to explain some terms related to digital advertising in a professional and clear manner. I'm ready when you are. Which terms would you like me to explain?"}
+{"query": "i want to create a brand", "category": "product", "response": "Here's a professional explanation:
+
+A brand is a unique identity created by an Advertiser or business to represent their products, services, or company in the market. A brand is a vital component of an Advertiser's marketing strategy, as it helps to establish a distinct image, tone, and personality that sets them apart from their competitors. By creating a brand, an Advertiser can manage campaigns, creatives, and other promotional activities under a unified banner, ensuring consistency across all marketing efforts.
+
+A well-crafted brand identity can have a profound impact on a company's reputation, customer loyalty, and ultimately, its bottom line. By creating a brand, an Advertiser can:
+
+* Establish a unique voice and tone that resonates with their target audience
+* Develop a consistent visual identity, including logos, colors, and typography
+* Build brand awareness and recognition through consistent messaging and imagery
+* Differentiate themselves from competitors and establish a unique market position
+* Create a sense of trust and loyalty with customers through consistent branding and messaging
+
+In the context of the advertising ecosystem, a brand is a crucial element in connecting with target audiences and driving business results. By creating a brand, an Advertiser can develop a comprehensive marketing strategy that spans multiple channels and touchpoints, ultimately driving engagement, conversions, and revenue growth."}
+{"query": "i want to create brand", "category": "product", "response": "Here's a rewritten version of the text to create a brand:
+
+A brand is a unique identity created by an Advertiser or business to represent their products, services, or company in the market. A brand allows the Advertiser to manage campaigns, creatives, and other promotional activities under that specific brand identity, ensuring consistency across marketing efforts. This enables the Advertiser to track performance and reach specific target audiences."}
+{"query": "i want to create brand", "category": "product", "response": "A brand is a unique identity created by an advertiser or business to represent their products, services, or company in the market. In our platform, the advertiser can add a brand, which becomes a key part of their campaign strategy.
+
+Once a brand is created, it allows the advertiser to manage campaigns, creatives, and other promotional activities under that specific brand identity. A brand also helps to ensure consistency across marketing efforts and enables the advertiser to track performance and reach specific target audiences.
+
+To create a brand, the advertiser can follow these steps:
+
+1. Log in to their account and navigate to the "Brands" section.
+2. Click on the "Create Brand" button.
+3. Enter the brand name, description, and any other relevant details.
+4. Set up the brand's settings, such as default targeting options and ad formats.
+5. Review and save the brand information.
+
+Once the brand is created, the advertiser can use it to manage their campaigns, creatives, and other promotional activities. The brand will be listed in the "Brands" section, where the advertiser can view and edit its settings as needed."}
+{"query": "i want to create brand", "category": "product", "response": "Here's a rewritten version of the text, skipping the phrase "In the context of digital advertising":
+
+A Campaign is created by an Advertiser to achieve specific marketing objectives, such as driving brand awareness, increasing engagement, or generating conversions. The Advertiser can add a campaign and customize its settings, including selecting targeting options such as multiple locations, screens, age groups, proximities, and more. This allows the Advertiser to precisely define where, when, and to whom the campaign will be shown. Once the campaign is set up with the relevant details and creatives, it is sent for approval, and upon approval, it becomes active for execution.
+
+A Creative is the actual ad content used in a campaign, designed to engage the target audience and achieve the campaign's objectives. Creatives can include various types of media such as images, videos. The Advertiser can upload and customize creatives for the campaign, and these will be displayed across selected advertising channels. Creatives are typically aligned with the campaign's goals, whether it's increasing brand awareness, driving conversions, or generating user engagement. Each creative can be tailored to specific targeting parameters, such as age group, location, or device type, ensuring it reaches the right audience at the right time.
+
+A Brand is a unique identity created by an Advertiser or business to represent their products, services, or company in the market. Once a brand is created, it allows the Advertiser to manage campaigns, creatives, and other promotional activities under that specific brand identity. A brand also helps to ensure consistency across marketing efforts and enables the Advertiser to track performance and reach specific target audiences.
+
+A Publisher is an entity or platform that owns and manages advertising space or inventory, where Advertisers can display their ads. Publishers provide ad placements on various digital or physical properties, such as digital signage, and physical screens. Once a Publisher is added to the Advertiser's network, the Advertiser can use the Publisher's inventory to run campaigns, targeting selected locations, screens, or other parameters. Publishers often monetize their platforms by selling ad space to Advertisers, either through direct deals or programmatic advertising.
+
+To create a brand, you can follow these steps:
+
+1. Log in to your account and navigate to the "Brands" section.
+2. Click on the "Create a Brand" button and fill in the required information, such as brand name, description, and logo.
+3. Set up the brand's settings, including the brand's tagline, color scheme, and font.
+4. Once the brand is created, you can start creating campaigns and managing creatives under that brand identity.
+
+Note: The exact steps may vary depending on the platform or system you are using."}
+{"query": "Create a Brand", "category": "product", "response": "A Brand is a unique identity created by an Advertiser or business to represent their products, services, or company in the market. A brand serves as a key part of an Advertiser's campaign strategy, allowing them to manage campaigns, creatives, and other promotional activities under a specific brand identity. This consistency across marketing efforts enables the Advertiser to track performance and reach specific target audiences.
+
+By creating a brand, Advertisers can differentiate themselves from competitors, establish a strong presence in the market, and build a loyal customer base. A well-crafted brand identity can also increase brand recognition, drive customer loyalty, and ultimately drive business growth.
+
+Once a brand is created, Advertisers can use it to manage their marketing efforts, including campaigns, creatives, and targeting options. This allows them to tailor their messaging and advertising strategies to specific target audiences, increasing the likelihood of achieving their marketing objectives."}
+{"query": "how to create a brand", "category": "product", "response": "To create a brand, follow these steps:
+
+1. Define the brand's purpose and identity: Determine the brand's mission, values, and unique selling proposition (USP). This will serve as the foundation for all marketing efforts and ensure consistency across campaigns.
+2. Develop a brand name: Choose a unique and memorable name that reflects the brand's identity and resonates with the target audience. Ensure the name is available and not already in use by another entity.
+3. Design a logo: Create a logo that embodies the brand's personality and is easily recognizable. The logo should be simple, yet distinctive, and scalable for use across various platforms.
+4. Establish brand messaging: Craft a clear and concise message that communicates the brand's value proposition, highlighting its unique features and benefits. This messaging should be used consistently across all marketing channels.
+5. Develop a visual identity: Create a visual identity that includes a color palette, typography, and imagery that aligns with the brand's personality and messaging. This visual identity should be used consistently across all marketing materials.
+6. Build a brand voice: Define the tone, language, and personality of the brand's voice, ensuring it resonates with the target audience and is consistent across all marketing channels.
+7. Establish brand guidelines: Create guidelines that outline the usage of the brand's logo, color palette, typography, and visual identity. These guidelines ensure consistency across all marketing efforts and protect the brand's integrity.
+8. Launch the brand: Once the brand is established, launch it through various marketing channels, including social media, advertising, and public relations. Monitor and adjust the brand's performance regularly to ensure it meets its objectives.
+
+By following these steps, you can create a strong and recognizable brand that resonates with your target audience and sets you apart from competitors."}
+{"query": "create a brand", "category": "product", "response": "A Brand is a unique identity created by an Advertiser or business to represent their products, services, or company in the market. A Brand allows an Advertiser to manage campaigns, creatives, and other promotional activities under that specific brand identity. This helps to ensure consistency across marketing efforts and enables the Advertiser to track performance and reach specific target audiences.
+
+For instance, a coffee shop chain might create a brand to promote their coffee and brand identity, including logos, imagery, and messaging. This brand would be used across various marketing channels, including digital advertising, social media, and in-store promotions.
+
+By creating a brand, an Advertiser can:
+
+* Establish a consistent visual and messaging identity
+* Build recognition and loyalty among customers
+* Differentiate themselves from competitors
+* Track performance and optimize marketing efforts
+
+In summary, a brand is a vital component of an Advertiser's marketing strategy, allowing them to promote their products or services in a consistent and recognizable manner."}
+{"query": "i want to create a brand", "category": "product", "response": "Here's a rewritten version of the text, focusing on creating a brand:
+
+A brand is a unique identity created by an advertiser or business to represent their products, services, or company in the market. When an advertiser creates a brand, it becomes a key part of their campaign strategy. With a brand, the advertiser can manage campaigns, creatives, and other promotional activities under a specific brand identity. This helps ensure consistency across marketing efforts and enables the advertiser to track performance and reach specific target audiences.
+
+To create a brand, an advertiser typically starts by defining their brand identity, which includes elements such as logos, taglines, and messaging. This brand identity serves as the foundation for all marketing efforts, helping to establish a consistent and recognizable presence in the market.
+
+Once a brand is created, it can be used to develop and execute various marketing campaigns, including digital advertising, print advertising, and other promotional activities. The brand serves as a unifying theme, tying together all marketing efforts and helping to build a strong and recognizable presence for the advertiser's products or services."}
+{"query": "Create a brand for me", "category": "product", "response": "Let's create a brand for you.
+
+**Brand Name:** Aurora Ventures
+
+**Brand Description:** Aurora Ventures is a forward-thinking brand that embodies the spirit of innovation and curiosity. Our mission is to empower individuals and businesses to reach new heights by providing cutting-edge solutions and expert guidance.
+
+**Brand Positioning:** Aurora Ventures is a trusted partner for those seeking to navigate the ever-changing landscape of technology and marketing. We pride ourselves on being agile, adaptable, and dedicated to delivering exceptional results.
+
+**Brand Personality:** Aurora Ventures is a brand that is passionate about collaboration, creativity, and continuous learning. We're a team of experts who are committed to pushing boundaries and driving progress.
+
+**Brand Values:**
+
+1. **Innovation**: We're passionate about staying ahead of the curve and embracing new ideas.
+2. **Collaboration**: We believe that together, we can achieve great things.
+3. **Excellence**: We strive for perfection in everything we do.
+4. **Authenticity**: We're genuine and transparent in our approach.
+5. **Empowerment**: We empower our clients and partners to achieve their goals.
+
+**Brand Visual Identity:**
+
+* **Logo:** A stylized aurora-inspired logo that represents the dawn of new possibilities.
+* **Color Scheme:** A palette of calming blues and vibrant oranges that evoke a sense of energy and optimism.
+* **Typography:** A clean, modern sans-serif font that conveys a sense of professionalism and approachability.
+
+I hope you like the brand I've created for you!"}
+{"query": "Create a brand for me", "category": "create", "response": "Sure! Please provide the name for the new brand."}
+{"query": "create a brand", "category": "create", "response": "Sure! Please provide the name for the new brand."}
+{"query": "demo", "category": "i apologize, but "demo" is not a clear query. please rephrase your question to fit one of the categories: 'product', 'data', or 'create'.", "response": "{'error': 'Invalid classification \'i apologize, but "demo" is not a clear query. please rephrase your question to fit one of the categories: \'product\', \'data\', or \'create\'.\'.'}"}
+{"query": "i want to create a brand", "category": "create", "response": "Sure! Please provide the name for the new brand."}
+{"query": "demo-testing", "category": "product", "response": "Here's a rewritten version of the text, presented in a professional and clear manner:
+
+A Campaign is a strategic initiative created by an Advertiser to achieve specific marketing objectives, such as enhancing brand recognition, increasing engagement, or driving conversions. The Advertiser can establish a campaign and customize its settings, including selecting targeting options, which enable precise definition of where, when, and to whom the campaign will be displayed.
+
+Once the campaign is set up with the relevant details and creative assets, it is submitted for approval. Upon approval, the campaign becomes active and is executed according to the specified settings. A Creative refers to the actual ad content used in a campaign, designed to captivate the target audience and achieve the campaign's objectives. Creatives can take various forms, such as images, videos, and more.
+
+Advertisers can upload and customize creatives for their campaigns, which are then displayed across selected advertising channels. Creatives are typically aligned with the campaign's goals, whether it's increasing brand awareness, driving conversions, or generating user engagement. Each creative can be tailored to specific targeting parameters, such as age group, location, or device type, ensuring it reaches the intended audience at the right time.
+
+A Brand is a unique identity created by an Advertiser or business to represent their products, services, or company in the market. Once a brand is established, it enables the Advertiser to manage campaigns, creatives, and other promotional activities under that specific brand identity. A brand also helps to ensure consistency across marketing efforts and enables the Advertiser to track performance and target specific audience segments.
+
+A Publisher is an entity or platform that owns and manages advertising space or inventory, where Advertisers can display their ads. Publishers provide ad placements on various digital or physical properties, such as digital signage and physical screens. Once a Publisher is integrated into the Advertiser's network, the Advertiser can utilize the Publisher's inventory to run campaigns, targeting selected locations, screens, or other parameters. Publishers often monetize their platforms by selling ad space to Advertisers, either through direct deals or programmatic advertising."}
+{"query": "i want to create a brand", "category": "create", "response": "Sure! Please provide the name for the new brand."}
+{"query": "i want to create a brand", "category": "create", "response": "Sure! Please provide the name for the new brand."}
+{"query": "demo-testing", "category": "create", "response": "Great! Your brand name is **demo-testing**. Now, please select the brand category by ID:
+1: Alcohol & Alcoholic Beverages
+2: Automobile
+3: Banking & Finance
+4: Bevarages - Non Alcoholic
+5: Clothing,Style & Fashion
+6: Crypto (Mining & Staking) & Tokens
+7: Dating Apps
+8: Education & Edtech Apps
+9: Electronic Gadgets, Technology & Appliances
+10: Entertainment, OTT & Movies
+11: Events & Expos
+12: Fantasy Gaming
+13: Finance & Other Fintech Apps
+14: FMCG
+15: Gaming App
+16: Heathcare & Personal Hygiene
+17: Home Decor & Furniture
+18: Hotels & Restaurants
+19: Law, Government & Politics
+20: Social Media
+21: Sports
+22: Tobacco
+23: Tourism
+24: Transport
+25: Religion & Spirituality
+26: Real Estate
+27: Other"}
+{"query": "Gaming App", "category": "create", "response": "Please provide a valid integer ID."}
+{"query": "how to create a brand", "category": "create", "response": "Please provide a valid integer ID."}
+{"query": "how to create a brand", "category": "create", "response": "Please provide a valid integer ID."}
+{"query": "how to create a brand", "category": "create", "response": "Something went wrong during brand creation. Please start again."}
+{"query": "ok", "category": "// no classification was made. the query "ok" does not fit into any of the categories 'product', 'data', or 'create'. please rephrase your query.", "response": "{'error': 'Invalid classification \'// no classification was made. the query "ok" does not fit into any of the categories \'product\', \'data\', or \'create\'. please rephrase your query.\'.'}"}
+{"query": "how to create a brand", "category": "product", "response": "To create a brand within the advertising platform, the Advertiser can follow these steps:
+
+1. Log in to their account and navigate to the "Brands" section.
+2. Click on the "Create Brand" button to initiate the process.
+3. Enter the brand name and a brief description of the brand.
+4. Upload a brand logo to represent the brand visually.
+5. Set up the brand's contact information, including the primary contact person and their email address.
+6. Define the brand's goals and objectives, such as increasing brand awareness, driving conversions, or generating user engagement.
+7. Choose the target audience for the brand, including demographics, interests, behaviors, or other relevant characteristics.
+8. Establish the brand's budget and set spending limits for campaigns.
+9. Configure the brand's reporting and analytics settings to track performance and measure success.
+
+Once a brand is created, the Advertiser can manage campaigns, creatives, and other promotional activities under that specific brand identity. This helps to ensure consistency across marketing efforts and enables the Advertiser to track performance and reach specific target audiences more effectively."}
+{"query": "how to create campaign", "category": "product", "response": "To create a campaign, an Advertiser can follow these steps:
+
+1. Log in to their account and navigate to the campaign creation page.
+2. Provide a unique name for the campaign, which will help identify it among other campaigns.
+3. Define the campaign's objectives, such as driving brand awareness, increasing engagement, or generating conversions.
+4. Determine the targeting options, including:
+	* Multiple locations: Specify specific cities, regions, or countries to target.
+	* Screens: Choose from various screen types, such as digital billboards, mobile devices, or desktop computers.
+	* Age groups: Select specific age ranges to target.
+	* Proximities: Target specific locations or areas based on distance from a specific point.
+	* Other parameters: Customize targeting options according to the campaign's goals and audience.
+5. Upload and customize creatives, including images, videos, or other types of media, to engage the target audience and achieve the campaign's objectives.
+6. Choose the advertising channels where the campaign will be displayed, such as digital billboards.
+7. Set a start and end date for the campaign, as well as a budget for the ad spend.
+8. Review and approve the campaign settings to ensure everything is accurate and aligned with the Advertiser's goals.
+9. Once approved, the campaign becomes active and begins executing, displaying the creatives on the selected screens and targeting the selected audience.
+
+By following these steps, Advertisers can create a campaign that is tailored to their specific marketing objectives and target audience, allowing them to effectively reach and engage with their desired audience."}
+{"query": "how many campaigns are there", "category": "data", "response": "[{'id': 1, 'name': 'DND', 'is_active': 2}, {'id': 2, 'name': 'Office Right Screen', 'is_active': 2}, {'id': 3, 'name': 'PS Cabin Test', 'is_active': 2}, {'id': 4, 'name': 'PS Cabin 2', 'is_active': 2}, {'id': 5, 'name': 'Campaign 3', 'is_active': 2}, {'id': 6, 'name': 'Maruti Suzuki', 'is_active': 2}, {'id': 7, 'name': 'Baleno', 'is_active': 2}, {'id': 8, 'name': 'Test Campaign', 'is_active': 2}, {'id': 9, 'name': 'LED_Tum Kya Ho', 'is_active': 2}, {'id': 10, 'name': 'Samsung Test', 'is_active': 2}, {'id': 11, 'name': 'Carlsberg', 'is_active': 2}, {'id': 12, 'name': 'Live_DND', 'is_active': 1}, {'id': 13, 'name': 'Ariana Test Blockchain AD', 'is_active': 2}, {'id': 14, 'name': 'Ariana Without Blockchain', 'is_active': 2}, {'id': 15, 'name': 'Test Campaign 1', 'is_active': 2}, {'id': 16, 'name': 'Test Campaign 2', 'is_active': 2}, {'id': 17, 'name': 'Prime Test Campaign', 'is_active': 2}, {'id': 18, 'name': 'Emirates Demo', 'is_active': 2}, {'id': 19, 'name': 'RAK Bank 1', 'is_active': 2}, {'id': 20, 'name': 'CT Finals', 'is_active': 0}, {'id': 21, 'name': 'into the finals', 'is_active': 2}, {'id': 22, 'name': 'Priya PVR XXL', 'is_active': 2}, {'id': 23, 'name': 'Nescafe Cold Coffee', 'is_active': 2}, {'id': 24, 'name': 'Kotak ActivMoney', 'is_active': 2}, {'id': 25, 'name': 'Cyber Crime - Delhi Police', 'is_active': 2}, {'id': 26, 'name': 'A3 Charge - Powerbank', 'is_active': 2}, {'id': 27, 'name': 'Contact us', 'is_active': 2}, {'id': 28, 'name': 'Samsung S25 ', 'is_active': 2}, {'id': 29, 'name': 'Samsung S25', 'is_active': 2}, {'id': 30, 'name': 'Emv', 'is_active': 2}, {'id': 31, 'name': 'Signaxe_Test', 'is_active': 2}, {'id': 32, 'name': 'Vast Test - Campaign', 'is_active': 2}, {'id': 33, 'name': 'Samsung S25', 'is_active': 2}, {'id': 34, 'name': 'Intrnal Test_ LED', 'is_active': 0}, {'id': 35, 'name': 'Internal Test ', 'is_active': 2}, {'id': 36, 'name': 'A3 Charge - Powerbank - 02', 'is_active': 1}, {'id': 37, 'name': 'Trident_Test', 'is_active': 1}]"}
+{"query": "how many are active", "category": "data", "response": "[{'id': 12, 'name': 'Live_DND', 'is_active': 1}, {'id': 36, 'name': 'A3 Charge - Powerbank - 02', 'is_active': 1}, {'id': 37, 'name': 'Trident_Test', 'is_active': 1}]"}
+{"query": "i want to create a brand", "category": "create", "response": "Sure! Please provide the name for the new brand."}
+{"query": "demo-testing", "category": "create", "response": "Great! Your brand name is **demo-testing**. Now, please select the brand category by ID:
+1: Alcohol & Alcoholic Beverages
+2: Automobile
+3: Banking & Finance
+4: Bevarages - Non Alcoholic
+5: Clothing,Style & Fashion
+6: Crypto (Mining & Staking) & Tokens
+7: Dating Apps
+8: Education & Edtech Apps
+9: Electronic Gadgets, Technology & Appliances
+10: Entertainment, OTT & Movies
+11: Events & Expos
+12: Fantasy Gaming
+13: Finance & Other Fintech Apps
+14: FMCG
+15: Gaming App
+16: Heathcare & Personal Hygiene
+17: Home Decor & Furniture
+18: Hotels & Restaurants
+19: Law, Government & Politics
+20: Social Media
+21: Sports
+22: Tobacco
+23: Tourism
+24: Transport
+25: Religion & Spirituality
+26: Real Estate
+27: Other"}
+{"query": "how many campaigns are there", "category": "create", "response": "Please provide a valid integer ID."}
+{"query": "how many campaigns are there", "category": "data", "response": "[{'id': 1, 'name': 'DND', 'is_active': 2}, {'id': 2, 'name': 'Office Right Screen', 'is_active': 2}, {'id': 3, 'name': 'PS Cabin Test', 'is_active': 2}, {'id': 4, 'name': 'PS Cabin 2', 'is_active': 2}, {'id': 5, 'name': 'Campaign 3', 'is_active': 2}, {'id': 6, 'name': 'Maruti Suzuki', 'is_active': 2}, {'id': 7, 'name': 'Baleno', 'is_active': 2}, {'id': 8, 'name': 'Test Campaign', 'is_active': 2}, {'id': 9, 'name': 'LED_Tum Kya Ho', 'is_active': 2}, {'id': 10, 'name': 'Samsung Test', 'is_active': 2}, {'id': 11, 'name': 'Carlsberg', 'is_active': 2}, {'id': 12, 'name': 'Live_DND', 'is_active': 1}, {'id': 13, 'name': 'Ariana Test Blockchain AD', 'is_active': 2}, {'id': 14, 'name': 'Ariana Without Blockchain', 'is_active': 2}, {'id': 15, 'name': 'Test Campaign 1', 'is_active': 2}, {'id': 16, 'name': 'Test Campaign 2', 'is_active': 2}, {'id': 17, 'name': 'Prime Test Campaign', 'is_active': 2}, {'id': 18, 'name': 'Emirates Demo', 'is_active': 2}, {'id': 19, 'name': 'RAK Bank 1', 'is_active': 2}, {'id': 20, 'name': 'CT Finals', 'is_active': 0}, {'id': 21, 'name': 'into the finals', 'is_active': 2}, {'id': 22, 'name': 'Priya PVR XXL', 'is_active': 2}, {'id': 23, 'name': 'Nescafe Cold Coffee', 'is_active': 2}, {'id': 24, 'name': 'Kotak ActivMoney', 'is_active': 2}, {'id': 25, 'name': 'Cyber Crime - Delhi Police', 'is_active': 2}, {'id': 26, 'name': 'A3 Charge - Powerbank', 'is_active': 2}, {'id': 27, 'name': 'Contact us', 'is_active': 2}, {'id': 28, 'name': 'Samsung S25 ', 'is_active': 2}, {'id': 29, 'name': 'Samsung S25', 'is_active': 2}, {'id': 30, 'name': 'Emv', 'is_active': 2}, {'id': 31, 'name': 'Signaxe_Test', 'is_active': 2}, {'id': 32, 'name': 'Vast Test - Campaign', 'is_active': 2}, {'id': 33, 'name': 'Samsung S25', 'is_active': 2}, {'id': 34, 'name': 'Intrnal Test_ LED', 'is_active': 0}, {'id': 35, 'name': 'Internal Test ', 'is_active': 2}, {'id': 36, 'name': 'A3 Charge - Powerbank - 02', 'is_active': 1}, {'id': 37, 'name': 'Trident_Test', 'is_active': 1}]"}
+{"query": "how many are active", "category": "data", "response": "[{'id': 12, 'name': 'Live_DND', 'is_active': 1}, {'id': 36, 'name': 'A3 Charge - Powerbank - 02', 'is_active': 1}, {'id': 37, 'name': 'Trident_Test', 'is_active': 1}]"}
+{"query": "i want to create a brand", "category": "create", "response": "Sure! Please provide the name for the new brand."}
+{"query": "demo-testinf", "category": "create", "response": "Great! Your brand name is **demo-testinf**. Now, please select the brand category by ID:
+1: Alcohol & Alcoholic Beverages
+2: Automobile
+3: Banking & Finance
+4: Bevarages - Non Alcoholic
+5: Clothing,Style & Fashion
+6: Crypto (Mining & Staking) & Tokens
+7: Dating Apps
+8: Education & Edtech Apps
+9: Electronic Gadgets, Technology & Appliances
+10: Entertainment, OTT & Movies
+11: Events & Expos
+12: Fantasy Gaming
+13: Finance & Other Fintech Apps
+14: FMCG
+15: Gaming App
+16: Heathcare & Personal Hygiene
+17: Home Decor & Furniture
+18: Hotels & Restaurants
+19: Law, Government & Politics
+20: Social Media
+21: Sports
+22: Tobacco
+23: Tourism
+24: Transport
+25: Religion & Spirituality
+26: Real Estate
+27: Other"}
+{"query": "how to add brand", "category": "product", "response": "Here is a rewritten version of the text:
+
+A Brand is a unique identity created by an Advertiser or business to represent their products, services, or company in the market. To add a brand, an Advertiser can follow these steps:
+
+1. Log in to their account on the platform.
+2. Navigate to the "Brands" section.
+3. Click on the "Add Brand" button.
+4. Enter the brand name, logo, and other relevant information.
+5. Click "Save" to create the brand.
+
+Once a brand is created, it allows the Advertiser to manage campaigns, creatives, and other promotional activities under that specific brand identity. This helps to ensure consistency across marketing efforts and enables the Advertiser to track performance and reach specific target audiences.
+
+By adding a brand, Advertisers can:
+
+* Create a unique identity for their marketing efforts
+* Manage multiple campaigns and creatives under one brand umbrella
+* Track performance and analytics for each brand
+* Ensure consistency across all marketing efforts
+
+Overall, adding a brand is an important step in setting up a successful marketing campaign, and allows Advertisers to effectively promote their products, services, or company to their target audience."}
+{"query": "want to add brand", "category": "create", "response": "Sure! Please provide the name for the new brand."}
+{"query": "demo-testing-ashish", "category": "create", "response": "Great! Your brand name is **demo-testing-ashish**.
+Now, please type the **category name** you want from this list:
+1: Alcohol & Alcoholic Beverages
+2: Automobile
+3: Banking & Finance
+4: Bevarages - Non Alcoholic
+5: Clothing,Style & Fashion
+6: Crypto (Mining & Staking) & Tokens
+7: Dating Apps
+8: Education & Edtech Apps
+9: Electronic Gadgets, Technology & Appliances
+10: Entertainment, OTT & Movies
+11: Events & Expos
+12: Fantasy Gaming
+13: Finance & Other Fintech Apps
+14: FMCG
+15: Gaming App
+16: Heathcare & Personal Hygiene
+17: Home Decor & Furniture
+18: Hotels & Restaurants
+19: Law, Government & Politics
+20: Social Media
+21: Sports
+22: Tobacco
+23: Tourism
+24: Transport
+25: Religion & Spirituality
+26: Real Estate
+27: Other"}
+{"query": "Social Medai", "category": "create", "response": "Did you mean **'Social Media'**? Please type 'yes' to confirm or type the correct category name again."}
+{"query": "Social Media", "category": "create", "response": "Something went wrong during brand creation. Please start again."}
+{"query": "i want to create a brand", "category": "create", "response": "Sure! Please provide the name for the new brand."}
+{"query": "demo-testing", "category": "create", "response": "Great! Your brand name is **demo-testing**.
+Now, please type the **category name** you want from this list:
+1: Alcohol & Alcoholic Beverages
+2: Automobile
+3: Banking & Finance
+4: Bevarages - Non Alcoholic
+5: Clothing,Style & Fashion
+6: Crypto (Mining & Staking) & Tokens
+7: Dating Apps
+8: Education & Edtech Apps
+9: Electronic Gadgets, Technology & Appliances
+10: Entertainment, OTT & Movies
+11: Events & Expos
+12: Fantasy Gaming
+13: Finance & Other Fintech Apps
+14: FMCG
+15: Gaming App
+16: Heathcare & Personal Hygiene
+17: Home Decor & Furniture
+18: Hotels & Restaurants
+19: Law, Government & Politics
+20: Social Media
+21: Sports
+22: Tobacco
+23: Tourism
+24: Transport
+25: Religion & Spirituality
+26: Real Estate
+27: Other"}
+{"query": "Gaming Appp", "category": "create", "response": "Did you mean **'Gaming App'**? Please type 'yes' to confirm or type the correct category name again."}
+{"query": "yes", "category": "create", "response": "No similar category found. Please check the spelling and type again."}
+{"query": "i want to create a brand", "category": "create", "response": "Sure! Please provide the name for the new brand."}
+{"query": "demo-testing", "category": "create", "response": "Great! Your brand name is **demo-testing**.
+Now, please type the **category name** you want from this list:
+1: Alcohol & Alcoholic Beverages
+2: Automobile
+3: Banking & Finance
+4: Bevarages - Non Alcoholic
+5: Clothing,Style & Fashion
+6: Crypto (Mining & Staking) & Tokens
+7: Dating Apps
+8: Education & Edtech Apps
+9: Electronic Gadgets, Technology & Appliances
+10: Entertainment, OTT & Movies
+11: Events & Expos
+12: Fantasy Gaming
+13: Finance & Other Fintech Apps
+14: FMCG
+15: Gaming App
+16: Heathcare & Personal Hygiene
+17: Home Decor & Furniture
+18: Hotels & Restaurants
+19: Law, Government & Politics
+20: Social Media
+21: Sports
+22: Tobacco
+23: Tourism
+24: Transport
+25: Religion & Spirituality
+26: Real Estate
+27: Other"}
+{"query": "want to create a brand", "category": "create", "response": "Sure! Please provide the name for the new brand."}
+{"query": "Demo-testing", "category": "create", "response": "Great! Your brand name is **Demo-testing**.
+Now, please type the **category name** you want from this list:
+1: Alcohol & Alcoholic Beverages
+2: Automobile
+3: Banking & Finance
+4: Bevarages - Non Alcoholic
+5: Clothing,Style & Fashion
+6: Crypto (Mining & Staking) & Tokens
+7: Dating Apps
+8: Education & Edtech Apps
+9: Electronic Gadgets, Technology & Appliances
+10: Entertainment, OTT & Movies
+11: Events & Expos
+12: Fantasy Gaming
+13: Finance & Other Fintech Apps
+14: FMCG
+15: Gaming App
+16: Heathcare & Personal Hygiene
+17: Home Decor & Furniture
+18: Hotels & Restaurants
+19: Law, Government & Politics
+20: Social Media
+21: Sports
+22: Tobacco
+23: Tourism
+24: Transport
+25: Religion & Spirituality
+26: Real Estate
+27: Other"}
+{"query": "Gaming Appp", "category": "create", "response": "Did you mean **'Gaming App'**? Please type 'yes' to confirm or type the correct category name again."}
+{"query": "yes", "category": "create", "response": "No similar category found. Please check the spelling and type again."}
+{"query": "i want to create a brand", "category": "create", "response": "Sure! Please provide the name for the new brand."}
+{"query": "demo-testing", "category": "create", "response": "Great! Your brand name is **demo-testing**.
+Now, please type the **category name** you want from this list:
+1: Alcohol & Alcoholic Beverages
+2: Automobile
+3: Banking & Finance
+4: Bevarages - Non Alcoholic
+5: Clothing,Style & Fashion
+6: Crypto (Mining & Staking) & Tokens
+7: Dating Apps
+8: Education & Edtech Apps
+9: Electronic Gadgets, Technology & Appliances
+10: Entertainment, OTT & Movies
+11: Events & Expos
+12: Fantasy Gaming
+13: Finance & Other Fintech Apps
+14: FMCG
+15: Gaming App
+16: Heathcare & Personal Hygiene
+17: Home Decor & Furniture
+18: Hotels & Restaurants
+19: Law, Government & Politics
+20: Social Media
+21: Sports
+22: Tobacco
+23: Tourism
+24: Transport
+25: Religion & Spirituality
+26: Real Estate
+27: Other"}
+{"query": "i want to create a brand", "category": "create", "response": "Sure! Please provide the name for the new brand."}
+{"query": "demo-testing", "category": "create", "response": "Great! Your brand name is **demo-testing**.
+Now, please type the **category name** you want from this list:
+1: Alcohol & Alcoholic Beverages
+2: Automobile
+3: Banking & Finance
+4: Bevarages - Non Alcoholic
+5: Clothing,Style & Fashion
+6: Crypto (Mining & Staking) & Tokens
+7: Dating Apps
+8: Education & Edtech Apps
+9: Electronic Gadgets, Technology & Appliances
+10: Entertainment, OTT & Movies
+11: Events & Expos
+12: Fantasy Gaming
+13: Finance & Other Fintech Apps
+14: FMCG
+15: Gaming App
+16: Heathcare & Personal Hygiene
+17: Home Decor & Furniture
+18: Hotels & Restaurants
+19: Law, Government & Politics
+20: Social Media
+21: Sports
+22: Tobacco
+23: Tourism
+24: Transport
+25: Religion & Spirituality
+26: Real Estate
+27: Other"}
+{"query": "i want to create brand", "category": "create", "response": "Sure! Please provide the name for the new brand."}
+{"query": "demo-testinf", "category": "create", "response": "Great! Your brand name is **demo-testinf**.
+Now, please type the **category name** you want from this list:
+1: Alcohol & Alcoholic Beverages
+2: Automobile
+3: Banking & Finance
+4: Bevarages - Non Alcoholic
+5: Clothing,Style & Fashion
+6: Crypto (Mining & Staking) & Tokens
+7: Dating Apps
+8: Education & Edtech Apps
+9: Electronic Gadgets, Technology & Appliances
+10: Entertainment, OTT & Movies
+11: Events & Expos
+12: Fantasy Gaming
+13: Finance & Other Fintech Apps
+14: FMCG
+15: Gaming App
+16: Heathcare & Personal Hygiene
+17: Home Decor & Furniture
+18: Hotels & Restaurants
+19: Law, Government & Politics
+20: Social Media
+21: Sports
+22: Tobacco
+23: Tourism
+24: Transport
+25: Religion & Spirituality
+26: Real Estate
+27: Other"}
+{"query": "i want to create brand", "category": "create", "response": "Sure! Please provide the name for the new brand."}
+{"query": "demo-testing", "category": "create", "response": "Great! Your brand name is **demo-testing**.
+Now, please type the **category name** you want from this list:
+1: Alcohol & Alcoholic Beverages
+2: Automobile
+3: Banking & Finance
+4: Bevarages - Non Alcoholic
+5: Clothing,Style & Fashion
+6: Crypto (Mining & Staking) & Tokens
+7: Dating Apps
+8: Education & Edtech Apps
+9: Electronic Gadgets, Technology & Appliances
+10: Entertainment, OTT & Movies
+11: Events & Expos
+12: Fantasy Gaming
+13: Finance & Other Fintech Apps
+14: FMCG
+15: Gaming App
+16: Heathcare & Personal Hygiene
+17: Home Decor & Furniture
+18: Hotels & Restaurants
+19: Law, Government & Politics
+20: Social Media
+21: Sports
+22: Tobacco
+23: Tourism
+24: Transport
+25: Religion & Spirituality
+26: Real Estate
+27: Other"}
+{"query": "i want to create a brand", "category": "create", "response": "Sure! Please provide the name for the new brand."}
+{"query": "demo-testing", "category": "create", "response": "Great! Your brand name is **demo-testing**.
+Now, please type the **category name** you want from this list:
+1: Alcohol & Alcoholic Beverages
+2: Automobile
+3: Banking & Finance
+4: Bevarages - Non Alcoholic
+5: Clothing,Style & Fashion
+6: Crypto (Mining & Staking) & Tokens
+7: Dating Apps
+8: Education & Edtech Apps
+9: Electronic Gadgets, Technology & Appliances
+10: Entertainment, OTT & Movies
+11: Events & Expos
+12: Fantasy Gaming
+13: Finance & Other Fintech Apps
+14: FMCG
+15: Gaming App
+16: Heathcare & Personal Hygiene
+17: Home Decor & Furniture
+18: Hotels & Restaurants
+19: Law, Government & Politics
+20: Social Media
+21: Sports
+22: Tobacco
+23: Tourism
+24: Transport
+25: Religion & Spirituality
+26: Real Estate
+27: Other"}
+{"query": "i want to create brand", "category": "create", "response": "Sure! Please provide the name for the new brand."}
+{"query": "demo-testing", "category": "create", "response": "Great! Your brand name is **demo-testing**.
+Now, please type the **category name** you want from this list:
+1: Alcohol & Alcoholic Beverages
+2: Automobile
+3: Banking & Finance
+4: Bevarages - Non Alcoholic
+5: Clothing,Style & Fashion
+6: Crypto (Mining & Staking) & Tokens
+7: Dating Apps
+8: Education & Edtech Apps
+9: Electronic Gadgets, Technology & Appliances
+10: Entertainment, OTT & Movies
+11: Events & Expos
+12: Fantasy Gaming
+13: Finance & Other Fintech Apps
+14: FMCG
+15: Gaming App
+16: Heathcare & Personal Hygiene
+17: Home Decor & Furniture
+18: Hotels & Restaurants
+19: Law, Government & Politics
+20: Social Media
+21: Sports
+22: Tobacco
+23: Tourism
+24: Transport
+25: Religion & Spirituality
+26: Real Estate
+27: Other"}
+{"query": "want to create a brand", "category": "create", "response": "Sure! Please provide the name for the new brand."}
+{"query": "demo-testing", "category": "create", "response": "Great! Your brand name is **demo-testing**.
+Now, please type the **category name** you want from this list:
+1: Alcohol & Alcoholic Beverages
+2: Automobile
+3: Banking & Finance
+4: Bevarages - Non Alcoholic
+5: Clothing,Style & Fashion
+6: Crypto (Mining & Staking) & Tokens
+7: Dating Apps
+8: Education & Edtech Apps
+9: Electronic Gadgets, Technology & Appliances
+10: Entertainment, OTT & Movies
+11: Events & Expos
+12: Fantasy Gaming
+13: Finance & Other Fintech Apps
+14: FMCG
+15: Gaming App
+16: Heathcare & Personal Hygiene
+17: Home Decor & Furniture
+18: Hotels & Restaurants
+19: Law, Government & Politics
+20: Social Media
+21: Sports
+22: Tobacco
+23: Tourism
+24: Transport
+25: Religion & Spirituality
+26: Real Estate
+27: Other"}
+{"query": "want to create brand", "category": "create", "response": "Sure! Please provide the name for the new brand."}
+{"query": "demo-testing", "category": "create", "response": "Great! Your brand name is **demo-testing**.
+Now, please type the **category name** you want from this list:
+1: Alcohol & Alcoholic Beverages
+2: Automobile
+3: Banking & Finance
+4: Bevarages - Non Alcoholic
+5: Clothing,Style & Fashion
+6: Crypto (Mining & Staking) & Tokens
+7: Dating Apps
+8: Education & Edtech Apps
+9: Electronic Gadgets, Technology & Appliances
+10: Entertainment, OTT & Movies
+11: Events & Expos
+12: Fantasy Gaming
+13: Finance & Other Fintech Apps
+14: FMCG
+15: Gaming App
+16: Heathcare & Personal Hygiene
+17: Home Decor & Furniture
+18: Hotels & Restaurants
+19: Law, Government & Politics
+20: Social Media
+21: Sports
+22: Tobacco
+23: Tourism
+24: Transport
+25: Religion & Spirituality
+26: Real Estate
+27: Other"}
+{"query": "i want to create a brand", "category": "create", "response": "Sure! Please provide the name for the new brand."}
+{"query": "demo-testing", "category": "create", "response": "Great! Your brand name is **demo-testing**.
+Now, please type the **category name** you want from this list:
+1: Alcohol & Alcoholic Beverages
+2: Automobile
+3: Banking & Finance
+4: Bevarages - Non Alcoholic
+5: Clothing,Style & Fashion
+6: Crypto (Mining & Staking) & Tokens
+7: Dating Apps
+8: Education & Edtech Apps
+9: Electronic Gadgets, Technology & Appliances
+10: Entertainment, OTT & Movies
+11: Events & Expos
+12: Fantasy Gaming
+13: Finance & Other Fintech Apps
+14: FMCG
+15: Gaming App
+16: Heathcare & Personal Hygiene
+17: Home Decor & Furniture
+18: Hotels & Restaurants
+19: Law, Government & Politics
+20: Social Media
+21: Sports
+22: Tobacco
+23: Tourism
+24: Transport
+25: Religion & Spirituality
+26: Real Estate
+27: Other"}
+{"query": "i want to create brand", "category": "create", "response": "Sure! Please provide the name for the new brand."}
+{"query": "demo-testing", "category": "create", "response": "Great! Your brand name is **demo-testing**.
+Now, please type the **category name** you want from this list:
+1: Alcohol & Alcoholic Beverages
+2: Automobile
+3: Banking & Finance
+4: Bevarages - Non Alcoholic
+5: Clothing,Style & Fashion
+6: Crypto (Mining & Staking) & Tokens
+7: Dating Apps
+8: Education & Edtech Apps
+9: Electronic Gadgets, Technology & Appliances
+10: Entertainment, OTT & Movies
+11: Events & Expos
+12: Fantasy Gaming
+13: Finance & Other Fintech Apps
+14: FMCG
+15: Gaming App
+16: Heathcare & Personal Hygiene
+17: Home Decor & Furniture
+18: Hotels & Restaurants
+19: Law, Government & Politics
+20: Social Media
+21: Sports
+22: Tobacco
+23: Tourism
+24: Transport
+25: Religion & Spirituality
+26: Real Estate
+27: Other"}
+{"query": "i want to create brand", "category": "create", "response": "Sure! Please provide the name for the new brand."}
+{"query": "demo-testing", "category": "create", "response": "Great! Your brand name is **demo-testing**.
+Now, please type the **category name** you want from this list:
+1: Alcohol & Alcoholic Beverages
+2: Automobile
+3: Banking & Finance
+4: Bevarages - Non Alcoholic
+5: Clothing,Style & Fashion
+6: Crypto (Mining & Staking) & Tokens
+7: Dating Apps
+8: Education & Edtech Apps
+9: Electronic Gadgets, Technology & Appliances
+10: Entertainment, OTT & Movies
+11: Events & Expos
+12: Fantasy Gaming
+13: Finance & Other Fintech Apps
+14: FMCG
+15: Gaming App
+16: Heathcare & Personal Hygiene
+17: Home Decor & Furniture
+18: Hotels & Restaurants
+19: Law, Government & Politics
+20: Social Media
+21: Sports
+22: Tobacco
+23: Tourism
+24: Transport
+25: Religion & Spirituality
+26: Real Estate
+27: Other"}
+{"query": "Transport", "category": "create", "response": "✅ Brand 'demo-testing' created successfully!"}
+{"query": "how many campaigns are there", "category": "data", "response": "[{'id': 1, 'name': 'DND', 'is_active': 2}, {'id': 2, 'name': 'Office Right Screen', 'is_active': 2}, {'id': 3, 'name': 'PS Cabin Test', 'is_active': 2}, {'id': 4, 'name': 'PS Cabin 2', 'is_active': 2}, {'id': 5, 'name': 'Campaign 3', 'is_active': 2}, {'id': 6, 'name': 'Maruti Suzuki', 'is_active': 2}, {'id': 7, 'name': 'Baleno', 'is_active': 2}, {'id': 8, 'name': 'Test Campaign', 'is_active': 2}, {'id': 9, 'name': 'LED_Tum Kya Ho', 'is_active': 2}, {'id': 10, 'name': 'Samsung Test', 'is_active': 2}, {'id': 11, 'name': 'Carlsberg', 'is_active': 2}, {'id': 12, 'name': 'Live_DND', 'is_active': 1}, {'id': 13, 'name': 'Ariana Test Blockchain AD', 'is_active': 2}, {'id': 14, 'name': 'Ariana Without Blockchain', 'is_active': 2}, {'id': 15, 'name': 'Test Campaign 1', 'is_active': 2}, {'id': 16, 'name': 'Test Campaign 2', 'is_active': 2}, {'id': 17, 'name': 'Prime Test Campaign', 'is_active': 2}, {'id': 18, 'name': 'Emirates Demo', 'is_active': 2}, {'id': 19, 'name': 'RAK Bank 1', 'is_active': 2}, {'id': 20, 'name': 'CT Finals', 'is_active': 0}, {'id': 21, 'name': 'into the finals', 'is_active': 2}, {'id': 22, 'name': 'Priya PVR XXL', 'is_active': 2}, {'id': 23, 'name': 'Nescafe Cold Coffee', 'is_active': 2}, {'id': 24, 'name': 'Kotak ActivMoney', 'is_active': 2}, {'id': 25, 'name': 'Cyber Crime - Delhi Police', 'is_active': 2}, {'id': 26, 'name': 'A3 Charge - Powerbank', 'is_active': 2}, {'id': 27, 'name': 'Contact us', 'is_active': 2}, {'id': 28, 'name': 'Samsung S25 ', 'is_active': 2}, {'id': 29, 'name': 'Samsung S25', 'is_active': 2}, {'id': 30, 'name': 'Emv', 'is_active': 2}, {'id': 31, 'name': 'Signaxe_Test', 'is_active': 2}, {'id': 32, 'name': 'Vast Test - Campaign', 'is_active': 2}, {'id': 33, 'name': 'Samsung S25', 'is_active': 2}, {'id': 34, 'name': 'Intrnal Test_ LED', 'is_active': 0}, {'id': 35, 'name': 'Internal Test ', 'is_active': 2}, {'id': 36, 'name': 'A3 Charge - Powerbank - 02', 'is_active': 1}, {'id': 37, 'name': 'Trident_Test', 'is_active': 1}]"}
+{"query": "how many are active from this", "category": "data", "response": "[{'id': 12, 'name': 'Live_DND', 'is_active': 1}, {'id': 36, 'name': 'A3 Charge - Powerbank - 02', 'is_active': 1}, {'id': 37, 'name': 'Trident_Test', 'is_active': 1}]"}
+{"query": "i want to create a brand", "category": "create", "response": "Sure! Please provide the name for the new brand."}
+{"query": "demo-testing", "category": "create", "response": "Great! Your brand name is **demo-testing**.
+Now, please type the **category name** you want from this list:
+1: Alcohol & Alcoholic Beverages
+2: Automobile
+3: Banking & Finance
+4: Bevarages - Non Alcoholic
+5: Clothing,Style & Fashion
+6: Crypto (Mining & Staking) & Tokens
+7: Dating Apps
+8: Education & Edtech Apps
+9: Electronic Gadgets, Technology & Appliances
+10: Entertainment, OTT & Movies
+11: Events & Expos
+12: Fantasy Gaming
+13: Finance & Other Fintech Apps
+14: FMCG
+15: Gaming App
+16: Heathcare & Personal Hygiene
+17: Home Decor & Furniture
+18: Hotels & Restaurants
+19: Law, Government & Politics
+20: Social Media
+21: Sports
+22: Tobacco
+23: Tourism
+24: Transport
+25: Religion & Spirituality
+26: Real Estate
+27: Other"}
+{"query": "Automobile", "category": "create", "response": "✅ Brand 'demo-testing' created successfully!"}
+{"query": "actvie cmapgnigs", "category": "data", "response": "[{'id': 1, 'name': 'DND', 'is_active': 2}, {'id': 2, 'name': 'Office Right Screen', 'is_active': 2}, {'id': 3, 'name': 'PS Cabin Test', 'is_active': 2}, {'id': 4, 'name': 'PS Cabin 2', 'is_active': 2}, {'id': 5, 'name': 'Campaign 3', 'is_active': 2}, {'id': 6, 'name': 'Maruti Suzuki', 'is_active': 2}, {'id': 7, 'name': 'Baleno', 'is_active': 2}, {'id': 8, 'name': 'Test Campaign', 'is_active': 2}, {'id': 9, 'name': 'LED_Tum Kya Ho', 'is_active': 2}, {'id': 10, 'name': 'Samsung Test', 'is_active': 2}, {'id': 11, 'name': 'Carlsberg', 'is_active': 2}, {'id': 12, 'name': 'Live_DND', 'is_active': 1}, {'id': 13, 'name': 'Ariana Test Blockchain AD', 'is_active': 2}, {'id': 14, 'name': 'Ariana Without Blockchain', 'is_active': 2}, {'id': 15, 'name': 'Test Campaign 1', 'is_active': 2}, {'id': 16, 'name': 'Test Campaign 2', 'is_active': 2}, {'id': 17, 'name': 'Prime Test Campaign', 'is_active': 2}, {'id': 18, 'name': 'Emirates Demo', 'is_active': 2}, {'id': 19, 'name': 'RAK Bank 1', 'is_active': 2}, {'id': 20, 'name': 'CT Finals', 'is_active': 0}, {'id': 21, 'name': 'into the finals', 'is_active': 2}, {'id': 22, 'name': 'Priya PVR XXL', 'is_active': 2}, {'id': 23, 'name': 'Nescafe Cold Coffee', 'is_active': 2}, {'id': 24, 'name': 'Kotak ActivMoney', 'is_active': 2}, {'id': 25, 'name': 'Cyber Crime - Delhi Police', 'is_active': 2}, {'id': 26, 'name': 'A3 Charge - Powerbank', 'is_active': 2}, {'id': 27, 'name': 'Contact us', 'is_active': 2}, {'id': 28, 'name': 'Samsung S25 ', 'is_active': 2}, {'id': 29, 'name': 'Samsung S25', 'is_active': 2}, {'id': 30, 'name': 'Emv', 'is_active': 2}, {'id': 31, 'name': 'Signaxe_Test', 'is_active': 2}, {'id': 32, 'name': 'Vast Test - Campaign', 'is_active': 2}, {'id': 33, 'name': 'Samsung S25', 'is_active': 2}, {'id': 34, 'name': 'Intrnal Test_ LED', 'is_active': 0}, {'id': 35, 'name': 'Internal Test ', 'is_active': 2}, {'id': 36, 'name': 'A3 Charge - Powerbank - 02', 'is_active': 1}, {'id': 37, 'name': 'Trident_Test', 'is_active': 1}]"}
+{"query": "hello", "category": "i'm a strict master classifier agent, and i need a clear query to classify. please rephrase your query into one of the following categories: 'product', 'data', or 'create'.", "response": "{'error': "Invalid classification 'i'm a strict master classifier agent, and i need a clear query to classify. please rephrase your query into one of the following categories: 'product', 'data', or 'create'.'."}"}
+{"query": "hey", "category": "i'm a strict master classifier agent, and i need a clear and specific query to classify. please try again with a new query that falls under one of the categories: 'product', 'data', or 'create'.", "response": "{'error': "Invalid classification 'i'm a strict master classifier agent, and i need a clear and specific query to classify. please try again with a new query that falls under one of the categories: 'product', 'data', or 'create'.'."}"}
+{"query": "hello", "category": "i'm a strict master classifier agent, and i need a specific query to classify. please rephrase your query in one of the following formats:
+
+* how do i [do something]?
+* what is [information]?
+* create [something]?
+
+for example: "how do i create a campaign?", "what is my campaign count?", or "create a new brand".", "response": "{'error': 'Invalid classification \'i\'m a strict master classifier agent, and i need a specific query to classify. please rephrase your query in one of the following formats:\n\n* how do i [do something]?\n* what is [information]?\n* create [something]?\n\nfor example: "how do i create a campaign?", "what is my campaign count?", or "create a new brand".\'.'}"}
+{"query": "how to add campaign", "category": "product", "response": "To add a campaign, an Advertiser can follow these steps:
+
+1. Log in to their account on the advertising platform and navigate to the "Campaigns" section.
+2. Click on the "Create Campaign" button to initiate the campaign creation process.
+3. Fill in the required campaign details, including:
+	* Campaign name: A descriptive title for the campaign.
+	* Campaign objective: The specific marketing goal the campaign aims to achieve, such as driving brand awareness, increasing engagement, or generating conversions.
+	* Targeting options: Select the targeting parameters to define where, when, and to whom the campaign will be shown. This may include multiple locations, screens, age groups, proximities, and more.
+4. Customize the campaign settings as needed, such as selecting the campaign duration, budget, and start date.
+5. Upload and customize the creative assets, including images, videos, or other media formats, to be used in the campaign.
+6. Review and approve the campaign details to ensure everything is accurate and complete.
+7. Once approved, the campaign will become active for execution, and the Advertiser can track its performance and make adjustments as needed.
+
+By following these steps, the Advertiser can create a campaign that effectively reaches and engages their target audience, achieving their desired marketing objectives."}
+{"query": "create a new brand", "category": "create", "response": "Sure! Please provide the name for the new brand."}
+{"query": "Apple", "category": "create", "response": "Great! Your brand name is **Apple**.
+Now, please type the **category name** you want from this list:
+1: Alcohol & Alcoholic Beverages
+2: Automobile
+3: Banking & Finance
+4: Bevarages - Non Alcoholic
+5: Clothing,Style & Fashion
+6: Crypto (Mining & Staking) & Tokens
+7: Dating Apps
+8: Education & Edtech Apps
+9: Electronic Gadgets, Technology & Appliances
+10: Entertainment, OTT & Movies
+11: Events & Expos
+12: Fantasy Gaming
+13: Finance & Other Fintech Apps
+14: FMCG
+15: Gaming App
+16: Heathcare & Personal Hygiene
+17: Home Decor & Furniture
+18: Hotels & Restaurants
+19: Law, Government & Politics
+20: Social Media
+21: Sports
+22: Tobacco
+23: Tourism
+24: Transport
+25: Religion & Spirituality
+26: Real Estate
+27: Other"}
+{"query": "campaigns ?", "category": "create", "response": "No similar category found. Please check the spelling and type again."}
+{"query": "campaign", "category": "create", "response": "No similar category found. Please check the spelling and type again."}
+{"query": "hey", "category": "i'm a strict master classifier agent, and i need a more specific query to classify. please try again!", "response": "{'error': "Invalid classification 'i'm a strict master classifier agent, and i need a more specific query to classify. please try again!'."}"}
+{"query": "hey", "category": "product", "response": "It seems like you started to say something, but it got cut off! Could you please rephrase or complete your question? I'm here to help and provide a professional response to explain the concepts of Campaign, Creative, Brand, and Publisher in a clear and concise manner."}
+{"query": "hello", "category": "product", "response": "Hello! I'm ready to help you explain the concepts of Campaign, Creative, Brand, and Publisher in a professional and clear manner. Please let me know what specific aspects you'd like me to focus on, and I'll do my best to assist you."}
+{"query": "how are you", "category": "product", "response": "I'm doing well, thank you for asking! I'm here to help with your questions and provide information in a professional and clear manner. Please feel free to ask me anything, and I'll do my best to assist you."}
+{"query": "hey", "category": "product", "response": "Hi! I'm ready to help you explain the concepts of a Campaign, Creative, Brand, and Publisher in a professional and clear manner. Please let me know how you'd like me to assist you!"}
+{"query": "hello", "category": "product", "response": "Hello! I'm ready to help you explain the campaign, creative, brand, and publisher concepts in a professional and clear manner. Please let me know how I can assist you further."}
+{"query": "how are you", "category": "product", "response": "I'm doing well, thank you for asking! I'm here to help you with your questions and provide information in a professional and clear manner."}
+{"query": "hey", "category": "product", "response": "It seems like you started something! Please go ahead and complete your request. I'll be happy to help you explain the concepts in a professional manner."}
+{"query": "hey", "category": "product", "response": "It seems you started to initiate a conversation, but it looks like it got cut off. Would you like to continue and ask me to explain the concept of a Campaign, Brand, and Publisher in a professional and detailed manner? I'm here to help!"}
+{"query": "hello", "category": "product", "response": "Hello! I'm ready to help. You wanted me to explain the concepts of Campaign, Creative, Brand, and Publisher in a professional and detailed manner. I'll do my best to provide a clear and concise explanation. Please let me know if you have any specific requirements or if you'd like me to proceed with the explanation."}
+{"query": "campaign", "category": "product", "response": "A campaign is a strategic initiative created by an Advertiser to achieve specific marketing objectives, such as driving brand awareness, increasing engagement, or generating conversions. A campaign is a carefully planned and executed effort to promote a product, service, or brand, designed to engage the target audience and achieve the desired outcome.
+
+To set up a campaign, the Advertiser can select targeting options such as multiple locations, screens, age groups, proximities, and more, allowing them to precisely define where, when, and to whom the campaign will be shown. Once the campaign is set up with the relevant details and creatives, it is sent for approval and upon approval, it becomes active for execution.
+
+A campaign is a critical component of an Advertiser's marketing strategy, as it allows them to reach their target audience and achieve their marketing goals. By carefully planning and executing a campaign, Advertisers can increase brand awareness, drive conversions, and build strong relationships with their customers.
+
+Key elements of a campaign include:
+
+* Targeting options: Advertisers can select specific locations, screens, age groups, proximities, and more to define their target audience.
+* Creatives: Advertisers can upload and customize creatives, such as images, videos, and other media, to engage their target audience.
+* Objectives: Advertisers set specific objectives for their campaign, such as driving conversions, increasing engagement, or building brand awareness.
+
+By understanding the importance of a campaign, Advertisers can create effective marketing strategies that drive results and achieve their business goals."}
+{"query": "brand", "category": "product", "response": "A Brand is a unique identity created by an Advertiser or business to represent their products, services, or company in the market. A brand is a key component of an Advertiser's marketing strategy, as it serves as a recognizable and memorable representation of their business.
+
+Within the advertising platform, an Advertiser can add a brand, which enables them to manage campaigns, creatives, and other promotional activities under that specific brand identity. This ensures consistency across marketing efforts and allows the Advertiser to track performance and reach specific target audiences.
+
+Having a brand allows Advertisers to differentiate themselves from competitors, build recognition, and establish a reputation with their target audience. By leveraging a brand, Advertisers can create a lasting impression and drive long-term business results."}
+{"query": "give me active campaigns", "category": "data", "response": "[]"}
+{"query": "give me campaigns", "category": "data", "response": "[]"}
+{"query": "how many campaigns are there", "category": "data", "response": "[]"}
+{"query": "Give me a list of all campaigns", "category": "data", "response": "[]"}
+{"query": "hello", "category": "product", "response": "Hello! I'm here to help you with explaining the concepts related to advertising campaigns, brands, and publishers. Please let me know how I can assist you."}
+{"query": "how are you", "category": "product", "response": "I'm doing well, thank you for asking! I'm a large language model, I don't have feelings or emotions like humans do, but I'm functioning properly and ready to assist with any questions or tasks you may have. How can I help you today?"}
+{"query": "how to add campaigns", "category": "product", "response": "A Campaign is created by an Advertiser within the platform to achieve specific marketing objectives, such as driving brand awareness, increasing engagement, or generating conversions. To add a campaign, the Advertiser can follow these steps:
+
+1. Log in to the platform and navigate to the "Campaigns" section.
+2. Click on the "Create Campaign" button.
+3. Fill in the required campaign information, including:
+	* Campaign name and description
+	* Budget and duration
+	* Targeting options, such as multiple locations, screens, age groups, proximities, and more
+4. Select the targeted audience and demographics to ensure the campaign reaches the right audience.
+5. Upload and customize the campaign creatives, including images, videos, or other media.
+6. Set the campaign's goals and objectives, such as increasing brand awareness, driving conversions, or generating user engagement.
+7. Review and approve the campaign settings.
+8. Once approved, the campaign becomes active for execution.
+
+The Advertiser can also customize the campaign settings to ensure it runs smoothly and effectively. This includes setting up tracking and reporting, as well as setting up payment and billing information.
+
+Additionally, the Advertiser can also manage multiple campaigns within the platform, allowing them to easily switch between different campaigns and track their performance."}
+{"query": "how many camapaigns are there", "category": "data", "response": "[{'id': 1, 'name': 'DND', 'is_active': 2}, {'id': 2, 'name': 'Office Right Screen', 'is_active': 2}, {'id': 3, 'name': 'PS Cabin Test', 'is_active': 2}, {'id': 4, 'name': 'PS Cabin 2', 'is_active': 2}, {'id': 5, 'name': 'Campaign 3', 'is_active': 2}, {'id': 6, 'name': 'Maruti Suzuki', 'is_active': 2}, {'id': 7, 'name': 'Baleno', 'is_active': 2}, {'id': 8, 'name': 'Test Campaign', 'is_active': 2}, {'id': 9, 'name': 'LED_Tum Kya Ho', 'is_active': 2}, {'id': 10, 'name': 'Samsung Test', 'is_active': 2}, {'id': 11, 'name': 'Carlsberg', 'is_active': 2}, {'id': 12, 'name': 'Live_DND', 'is_active': 1}, {'id': 13, 'name': 'Ariana Test Blockchain AD', 'is_active': 2}, {'id': 14, 'name': 'Ariana Without Blockchain', 'is_active': 2}, {'id': 15, 'name': 'Test Campaign 1', 'is_active': 2}, {'id': 16, 'name': 'Test Campaign 2', 'is_active': 2}, {'id': 17, 'name': 'Prime Test Campaign', 'is_active': 2}, {'id': 18, 'name': 'Emirates Demo', 'is_active': 2}, {'id': 19, 'name': 'RAK Bank 1', 'is_active': 2}, {'id': 20, 'name': 'CT Finals', 'is_active': 0}, {'id': 21, 'name': 'into the finals', 'is_active': 2}, {'id': 22, 'name': 'Priya PVR XXL', 'is_active': 2}, {'id': 23, 'name': 'Nescafe Cold Coffee', 'is_active': 2}, {'id': 24, 'name': 'Kotak ActivMoney', 'is_active': 2}, {'id': 25, 'name': 'Cyber Crime - Delhi Police', 'is_active': 2}, {'id': 26, 'name': 'A3 Charge - Powerbank', 'is_active': 2}, {'id': 27, 'name': 'Contact us', 'is_active': 2}, {'id': 28, 'name': 'Samsung S25 ', 'is_active': 2}, {'id': 29, 'name': 'Samsung S25', 'is_active': 2}, {'id': 30, 'name': 'Emv', 'is_active': 2}, {'id': 31, 'name': 'Signaxe_Test', 'is_active': 2}, {'id': 32, 'name': 'Vast Test - Campaign', 'is_active': 2}, {'id': 33, 'name': 'Samsung S25', 'is_active': 2}, {'id': 34, 'name': 'Intrnal Test_ LED', 'is_active': 0}, {'id': 35, 'name': 'Internal Test ', 'is_active': 2}, {'id': 36, 'name': 'A3 Charge - Powerbank - 02', 'is_active': 1}, {'id': 37, 'name': 'Trident_Test', 'is_active': 1}, {'id': 38, 'name': 'Signaxe_Bill Board', 'is_active': 1}]"}
+{"query": "give me active one", "category": "data", "response": "[{'id': 1, 'name': 'TT_Alcobev'}, {'id': 2, 'name': 'TT_Ent'}, {'id': 3, 'name': 'TT_LED'}, {'id': 4, 'name': 'Ariana Test '}, {'id': 5, 'name': 'Emirates Demo'}, {'id': 6, 'name': 'Amazon Prime Demo'}, {'id': 7, 'name': 'RAK Bank'}, {'id': 8, 'name': 'BCCI'}, {'id': 9, 'name': 'Nescafe'}, {'id': 10, 'name': 'Kotak'}, {'id': 11, 'name': 'Delhi Police'}, {'id': 12, 'name': 'A3 Charge'}, {'id': 13, 'name': 'Qatar Airways'}, {'id': 14, 'name': 'Nike'}, {'id': 15, 'name': 'EMV'}, {'id': 16, 'name': 'Samsung'}]"}
+{"query": "leave it", "category": "product", "response": "Here is the rewritten text:
+
+A Campaign is created by an Advertiser to achieve specific marketing objectives, such as driving brand awareness, increasing engagement, or generating conversions. The Advertiser can add a campaign and customize its settings, including selecting targeting options such as multiple locations, screens, age groups, proximities, and more. This allows the Advertiser to precisely define where, when, and to whom the campaign will be shown. Once the campaign is set up with the relevant details and creatives, it is sent for approval, and upon approval, it becomes active for execution.
+
+A Creative is the actual ad content used in a campaign, designed to engage the target audience and achieve the campaign's objectives. Creatives can include various types of media such as images, videos. The Advertiser can upload and customize creatives for the campaign, and these will be displayed across selected advertising channels. Creatives are typically aligned with the campaign's goals, whether it's increasing brand awareness, driving conversions, or generating user engagement. Each creative can be tailored to specific targeting parameters, such as age group, location, or device type, ensuring it reaches the right audience at the right time.
+
+A Brand is a unique identity created by an Advertiser or business to represent their products, services, or company in the market. Once a brand is created, it allows the Advertiser to manage campaigns, creatives, and other promotional activities under that specific brand identity. A brand also helps to ensure consistency across marketing efforts and enables the Advertiser to track performance and reach specific target audiences.
+
+A Publisher is an entity or platform that owns and manages advertising space or inventory, where Advertisers can display their ads. Publishers provide ad placements on various digital or physical properties such as digital signage, and physical screens. Once a Publisher is added to the Advertiser's network, the Advertiser can use the Publisher's inventory to run campaigns, targeting selected locations, screens, or other parameters. Publishers often monetize their platforms by selling ad space to Advertisers, either through direct deals or programmatic advertising."}
+{"query": "please add brand for me", "category": "create", "response": "Sure! Please provide the name for the new brand."}
+{"query": "demo - testing", "category": "create", "response": "Great! Your brand name is **demo - testing**.
+Now, please type the **category name** you want from this list:
+1: Alcohol & Alcoholic Beverages
+2: Automobile
+3: Banking & Finance
+4: Bevarages - Non Alcoholic
+5: Clothing,Style & Fashion
+6: Crypto (Mining & Staking) & Tokens
+7: Dating Apps
+8: Education & Edtech Apps
+9: Electronic Gadgets, Technology & Appliances
+10: Entertainment, OTT & Movies
+11: Events & Expos
+12: Fantasy Gaming
+13: Finance & Other Fintech Apps
+14: FMCG
+15: Gaming App
+16: Heathcare & Personal Hygiene
+17: Home Decor & Furniture
+18: Hotels & Restaurants
+19: Law, Government & Politics
+20: Social Media
+21: Sports
+22: Tobacco
+23: Tourism
+24: Transport
+25: Religion & Spirituality
+26: Real Estate
+27: Other"}
+{"query": "Social Medai", "category": "create", "response": "Did you mean **'Social Media'**? Please type 'yes' to confirm or type the correct category name again."}
+{"query": "yes", "category": "create", "response": "No similar category found. Please check the spelling and type again."}
+{"query": "y", "category": "create", "response": "No similar category found. Please check the spelling and type again."}
+{"query": "Social Media", "category": "create", "response": "✅ Brand 'demo - testing' created successfully!"}
+{"query": "hello", "category": "product", "response": "Hello! It seems like you're looking for a professional explanation of various terms related to digital advertising. I'd be happy to help you with that!
+
+Here's a rewritten version of the text, skipping the phrase "In the context of digital advertising" as requested:
+
+A Campaign is created by an Advertiser to achieve specific marketing objectives, such as driving brand awareness, increasing engagement, or generating conversions. The Advertiser can add a campaign and customize its settings, including selecting targeting options such as multiple locations, screens, age groups, proximities, and more. This allows the Advertiser to precisely define where, when, and to whom the campaign will be shown. Once the campaign is set up with the relevant details and creatives, it is sent for approval, and upon approval, it becomes active for execution.
+
+A Creative is the actual ad content used in a campaign, designed to engage the target audience and achieve the campaign's objectives. Creatives can include various types of media such as images, videos. The Advertiser can upload and customize creatives for the campaign, and these will be displayed across selected advertising channels (e.g. digital billboards). Creatives are typically aligned with the campaign's goals, whether it's increasing brand awareness, driving conversions, or generating user engagement. Each creative can be tailored to specific targeting parameters, such as age group, location, or device type, ensuring it reaches the right audience at the right time.
+
+A Brand is a unique identity created by an Advertiser or business to represent their products, services, or company in the market. The Advertiser can add a brand, which becomes a key part of their campaign strategy. Once a brand is created, it allows the Advertiser to manage campaigns, creatives, and other promotional activities under that specific brand identity. A brand also helps to ensure consistency across marketing efforts and enables the Advertiser to track performance and reach specific target audiences.
+
+A Publisher is an entity or platform that owns and manages advertising space or inventory, where Advertisers can display their ads. Publishers provide ad placements on various properties such as digital signage, and physical screens (e.g., billboards). Advertisers can access a Publisher's inventory to reach a specific audience. Once a Publisher is added to the Advertiser's network, the Advertiser can use the Publisher's inventory to run campaigns, targeting selected locations, screens, or other parameters. Publishers often monetize their platforms by selling ad space to Advertisers, either through direct deals or programmatic advertising.
+
+I hope this rewritten explanation meets your needs! If you have any further requests or questions, please feel free to ask."}
+{"query": "hello", "category": "product", "response": "Hello! I'm ready to help you explain the concepts of Campaign, Creative, Brand, and Publisher in a professional and clear manner. Please let me know how I can assist you."}
+{"query": "how are you", "category": "product", "response": "I'm doing well, thank you for asking! I'm here to help you with your question and provide a professional answer."}
+{"query": "how many campaigns are there", "category": "data", "response": "[{'id': 1, 'name': 'DND', 'is_active': 2}, {'id': 2, 'name': 'Office Right Screen', 'is_active': 2}, {'id': 3, 'name': 'PS Cabin Test', 'is_active': 2}, {'id': 4, 'name': 'PS Cabin 2', 'is_active': 2}, {'id': 5, 'name': 'Campaign 3', 'is_active': 2}, {'id': 6, 'name': 'Maruti Suzuki', 'is_active': 2}, {'id': 7, 'name': 'Baleno', 'is_active': 2}, {'id': 8, 'name': 'Test Campaign', 'is_active': 2}, {'id': 9, 'name': 'LED_Tum Kya Ho', 'is_active': 2}, {'id': 10, 'name': 'Samsung Test', 'is_active': 2}, {'id': 11, 'name': 'Carlsberg', 'is_active': 2}, {'id': 12, 'name': 'Live_DND', 'is_active': 1}, {'id': 13, 'name': 'Ariana Test Blockchain AD', 'is_active': 2}, {'id': 14, 'name': 'Ariana Without Blockchain', 'is_active': 2}, {'id': 15, 'name': 'Test Campaign 1', 'is_active': 2}, {'id': 16, 'name': 'Test Campaign 2', 'is_active': 2}, {'id': 17, 'name': 'Prime Test Campaign', 'is_active': 2}, {'id': 18, 'name': 'Emirates Demo', 'is_active': 2}, {'id': 19, 'name': 'RAK Bank 1', 'is_active': 2}, {'id': 20, 'name': 'CT Finals', 'is_active': 0}, {'id': 21, 'name': 'into the finals', 'is_active': 2}, {'id': 22, 'name': 'Priya PVR XXL', 'is_active': 2}, {'id': 23, 'name': 'Nescafe Cold Coffee', 'is_active': 2}, {'id': 24, 'name': 'Kotak ActivMoney', 'is_active': 2}, {'id': 25, 'name': 'Cyber Crime - Delhi Police', 'is_active': 2}, {'id': 26, 'name': 'A3 Charge - Powerbank', 'is_active': 2}, {'id': 27, 'name': 'Contact us', 'is_active': 2}, {'id': 28, 'name': 'Samsung S25 ', 'is_active': 2}, {'id': 29, 'name': 'Samsung S25', 'is_active': 2}, {'id': 30, 'name': 'Emv', 'is_active': 2}, {'id': 31, 'name': 'Signaxe_Test', 'is_active': 2}, {'id': 32, 'name': 'Vast Test - Campaign', 'is_active': 2}, {'id': 33, 'name': 'Samsung S25', 'is_active': 2}, {'id': 34, 'name': 'Intrnal Test_ LED', 'is_active': 0}, {'id': 35, 'name': 'Internal Test ', 'is_active': 2}, {'id': 36, 'name': 'A3 Charge - Powerbank - 02', 'is_active': 1}, {'id': 37, 'name': 'Trident_Test', 'is_active': 1}, {'id': 38, 'name': 'Signaxe_Bill Board', 'is_active': 1}]"}
+{"query": "how many are active", "category": "data", "response": "[{'id': 12, 'name': 'Live_DND', 'is_active': 1}, {'id': 36, 'name': 'A3 Charge - Powerbank - 02', 'is_active': 1}, {'id': 37, 'name': 'Trident_Test', 'is_active': 1}, {'id': 38, 'name': 'Signaxe_Bill Board', 'is_active': 1}]"}
+{"query": "hey", "category": "product", "response": "It seems like you wanted me to answer your question. I'd be happy to help you with that! It looks like you provided a passage about a campaign, creative, brand, and publisher in the context of digital advertising. I can help you rephrase it in a more professional tone, removing the phrase "In the context of digital advertising" as requested.
+
+Here's my attempt at rephrasing the passage:
+
+A campaign is created by an advertiser to achieve specific marketing objectives, such as driving brand awareness, increasing engagement, or generating conversions. The advertiser can add a campaign and customize its settings, including selecting targeting options such as multiple locations, screens, age groups, proximities, and more. This allows the advertiser to precisely define where, when, and to whom the campaign will be shown. Once the campaign is set up with the relevant details and creatives, it is sent for approval, and upon approval, it becomes active for execution.
+
+A creative is the actual ad content used in a campaign, designed to engage the target audience and achieve the campaign's objectives. Creatives can include various types of media such as images, videos. The advertiser can upload and customize creatives for the campaign, and these will be displayed across selected advertising channels.
+
+A brand is a unique identity created by an advertiser or business to represent their products, services, or company in the market. The advertiser can add a brand, which becomes a key part of their campaign strategy. Once a brand is created, it allows the advertiser to manage campaigns, creatives, and other promotional activities under that specific brand identity. A brand also helps to ensure consistency across marketing efforts and enables the advertiser to track performance and reach specific target audiences.
+
+A publisher is an entity or platform that owns and manages advertising space or inventory, where advertisers can display their ads. Publishers provide ad placements on various properties such as digital signage, and physical screens. A publisher allows advertisers to access their inventory to reach a specific audience. Once a publisher is added to the advertiser's network, the advertiser can use the publisher's inventory to run campaigns, targeting selected locations, screens, or other parameters. Publishers often monetize their platforms by selling ad space to advertisers, either through direct deals or programmatic advertising.
+
+Let me know if this meets your requirements or if you need further assistance!"}
+{"query": "hello", "category": "product", "response": "Hello! I'm ready to help you explain the concepts of Campaign, Creative, Brand, and Publisher in a professional and detailed manner. Please let me know how you'd like me to proceed."}
+{"query": "hello", "category": "product", "response": "Hello! I'm ready to help you explain the concepts of Campaign, Creative, Brand, and Publisher in a professional and clear manner. Please let me know how I can assist you."}
+{"query": "hi", "category": "product", "response": "Hello!"}
+{"query": "hey", "category": "product", "response": "It seems like you wanted me to explain some concepts related to digital advertising in a professional and detailed manner. Here's my attempt:
+
+A Campaign is a strategic initiative created by an Advertiser to achieve specific marketing objectives, such as increasing brand awareness, driving engagement, or generating conversions. To set up a campaign, the Advertiser can customize its settings, selecting targeting options like multiple locations, screens, age groups, proximities, and more. This allows the Advertiser to precisely define where, when, and to whom the campaign will be displayed.
+
+Once the campaign is set up with relevant details and creative assets, it is sent for approval and becomes active for execution upon approval. A Creative is the actual ad content used in a campaign, designed to engage the target audience and achieve the campaign's objectives. Creatives can include various types of media, such as images, videos, and more. The Advertiser can upload and customize creatives for the campaign, which will be displayed across selected advertising channels. Creatives are typically aligned with the campaign's goals, whether it's increasing brand awareness, driving conversions, or generating user engagement.
+
+Each creative can be tailored to specific targeting parameters, such as age group, location, or device type, ensuring it reaches the right audience at the right time.
+
+A Brand is a unique identity created by an Advertiser or business to represent their products, services, or company in the market. A brand allows the Advertiser to manage campaigns, creatives, and other promotional activities under that specific brand identity. It also helps to ensure consistency across marketing efforts and enables the Advertiser to track performance and reach specific target audiences.
+
+A Publisher is an entity or platform that owns and manages advertising space or inventory, where Advertisers can display their ads. Publishers provide ad placements on various digital or physical properties, such as digital signage, and physical screens. They allow Advertisers to access their inventory to reach a specific audience. Once a Publisher is added to the Advertiser's network, the Advertiser can use the Publisher's inventory to run campaigns, targeting selected locations, screens, or other parameters. Publishers often monetize their platforms by selling ad space to Advertisers, either through direct deals or programmatic advertising.
+
+Let me know if this meets your requirements or if you need any further clarification!"}
+{"query": "hey", "category": "chitchat", "response": "Hi! 👋 How can I assist you today?"}
+{"query": "hello", "category": "chitchat", "response": "Hi! 👋 How can I assist you today?"}
+{"query": "how are you", "category": "chitchat", "response": "Hi! 👋 How can I assist you today?"}
+{"query": "what are you doing", "category": "chitchat", "response": "Hi! 👋 How can I assist you today?"}
+{"query": "how many campaigns are there", "category": "data", "response": "[{'id': 1, 'name': 'DND', 'is_active': 2}, {'id': 2, 'name': 'Office Right Screen', 'is_active': 2}, {'id': 3, 'name': 'PS Cabin Test', 'is_active': 2}, {'id': 4, 'name': 'PS Cabin 2', 'is_active': 2}, {'id': 5, 'name': 'Campaign 3', 'is_active': 2}, {'id': 6, 'name': 'Maruti Suzuki', 'is_active': 2}, {'id': 7, 'name': 'Baleno', 'is_active': 2}, {'id': 8, 'name': 'Test Campaign', 'is_active': 2}, {'id': 9, 'name': 'LED_Tum Kya Ho', 'is_active': 2}, {'id': 10, 'name': 'Samsung Test', 'is_active': 2}, {'id': 11, 'name': 'Carlsberg', 'is_active': 2}, {'id': 12, 'name': 'Live_DND', 'is_active': 1}, {'id': 13, 'name': 'Ariana Test Blockchain AD', 'is_active': 2}, {'id': 14, 'name': 'Ariana Without Blockchain', 'is_active': 2}, {'id': 15, 'name': 'Test Campaign 1', 'is_active': 2}, {'id': 16, 'name': 'Test Campaign 2', 'is_active': 2}, {'id': 17, 'name': 'Prime Test Campaign', 'is_active': 2}, {'id': 18, 'name': 'Emirates Demo', 'is_active': 2}, {'id': 19, 'name': 'RAK Bank 1', 'is_active': 2}, {'id': 20, 'name': 'CT Finals', 'is_active': 0}, {'id': 21, 'name': 'into the finals', 'is_active': 2}, {'id': 22, 'name': 'Priya PVR XXL', 'is_active': 2}, {'id': 23, 'name': 'Nescafe Cold Coffee', 'is_active': 2}, {'id': 24, 'name': 'Kotak ActivMoney', 'is_active': 2}, {'id': 25, 'name': 'Cyber Crime - Delhi Police', 'is_active': 2}, {'id': 26, 'name': 'A3 Charge - Powerbank', 'is_active': 2}, {'id': 27, 'name': 'Contact us', 'is_active': 2}, {'id': 28, 'name': 'Samsung S25 ', 'is_active': 2}, {'id': 29, 'name': 'Samsung S25', 'is_active': 2}, {'id': 30, 'name': 'Emv', 'is_active': 2}, {'id': 31, 'name': 'Signaxe_Test', 'is_active': 2}, {'id': 32, 'name': 'Vast Test - Campaign', 'is_active': 2}, {'id': 33, 'name': 'Samsung S25', 'is_active': 2}, {'id': 34, 'name': 'Intrnal Test_ LED', 'is_active': 0}, {'id': 35, 'name': 'Internal Test ', 'is_active': 2}, {'id': 36, 'name': 'A3 Charge - Powerbank - 02', 'is_active': 1}, {'id': 37, 'name': 'Trident_Test', 'is_active': 1}, {'id': 38, 'name': 'Signaxe_Bill Board', 'is_active': 1}]"}
+{"query": "thank you", "category": "chitchat", "response": "Hi! 👋 How can I assist you today?"}
+{"query": "hey", "category": "chitchat", "response": "Hey there! How's your day going so far?"}
+{"query": "how are you", "category": "chitchat", "response": "I'm doing great, thank you for asking! It's always lovely to chat with someone new. I don't have feelings like humans do, but I'm always happy to help with any questions or topics you'd like to discuss. How about you? How's your day going so far?"}
+{"query": "i am great", "category": "chitchat", "response": "That's wonderful to hear! It's always fantastic to start the day feeling great! What's been going on that's put a spring in your step? Did you do something exciting or just wake up feeling energized? I'm all ears and happy to chat about it!"}
+{"query": "thats nice", "category": "chitchat", "response": "Thank you! I'm glad you think so! It's always great to have a friendly conversation. How's your day been so far? Anything exciting happen recently?"}
+{"query": "thank you", "category": "chitchat", "response": "You're welcome! It's a pleasure to chat with you. How's your day going so far?"}
+{"query": "great", "category": "chitchat", "response": "Great to hear from you! How's your day going so far? Got anything exciting planned or just taking it easy?"}
+{"query": "c ya!", "category": "chitchat", "response": "It was great chatting with you! Feel free to come back and say hi anytime. Have a fantastic day and catch you later!"}
+{"query": "hey", "category": "chitchat", "response": "Hey! How's your day going so far?"}
+{"query": "great", "category": "chitchat", "response": "Just great, isn't it? I love starting the day with a positive note. How about you, how's your day going so far? Anything exciting or just a typical day?"}
+{"query": "just typical day", "category": "chitchat", "response": "A typical day, huh? Well, I'm happy to chat with you about it! How was your morning? Did you wake up feeling refreshed or was it a bit of a slow start? Did you have any exciting plans or just the usual routine? I'm all ears!"}
+{"query": "leave it", "category": "chitchat", "response": "No worries! Sometimes we just need to take a step back and leave things be. Would you like to talk about what's been on your mind lately? I'm all ears and here to listen if you need someone to chat with."}
+{"query": "Hello", "category": "chitchat", "response": "Hi there! It's great to chat with you. How's your day going so far? Anything exciting happening or is it just a regular day?"}
+{"query": "how are you", "category": "chitchat", "response": "I'm doing great, thanks for asking! It's always nice to start the day with a friendly conversation. I'm a friendly conversational AI, so I don't have feelings like humans do, but I'm always happy to chat with you and help with any questions or topics you'd like to discuss. How about you? How's your day going so far?"}
+{"query": "how many campaigns are there", "category": "data", "response": "[]"}
+{"query": "hey", "category": "chitchat", "response": "Hey! How's it going?"}
+{"query": "great what about u", "category": "chitchat", "response": "I'm doing wonderfully, thank you for asking! I'm just a language model, so I don't have feelings or emotions like humans do, but I'm always happy to chat with you and help with any questions or topics you'd like to discuss. It's great to have a conversation with someone new! What about you, how's your day going so far?"}
+{"query": "not good", "category": "chitchat", "response": "I sense that things might not be going so well for you. Would you like to talk about what's on your mind and why you're feeling that way? Sometimes sharing what's bothering us with someone who's listening can help us feel a bit better. I'm here to listen and offer any support I can."}
+{"query": "create a brand for me", "category": "create", "response": "Sure! Please provide the name for the new brand."}
+{"query": "demo-tetsing", "category": "create", "response": "No brand categories found in the database."}

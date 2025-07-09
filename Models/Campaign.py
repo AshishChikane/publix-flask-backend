@@ -10,17 +10,17 @@ class Campaign(db.Model):
 
     advertiser_id = db.Column(
         db.Integer,
-        db.ForeignKey('tbl_advertiser.id'),
+        # db.ForeignKey('tbl_advertiser.id'),
     )
 
     brand_id = db.Column(
         db.Integer,
-        db.ForeignKey('tbl_brands.id'),
+        # db.ForeignKey('tbl_brands.id'),
     )
 
     user_id = db.Column(
         db.Integer,
-        db.ForeignKey('tbl_advertiser_users.id'),
+        # db.ForeignKey('tbl_advertiser_users.id'),
     )
 
     start_date = db.Column(db.DateTime)

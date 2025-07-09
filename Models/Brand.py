@@ -10,19 +10,19 @@ class Brand(db.Model):
 
     advertiser_id = db.Column(
         db.Integer,
-        db.ForeignKey('tbl_advertiser.id'),
+        # db.ForeignKey('tbl_advertiser.id'),
         nullable=False
     )
 
     category_id = db.Column(
         db.Integer,
-        db.ForeignKey('tbl_brand_category.id'),
+        # db.ForeignKey('tbl_brand_category.id'),
         nullable=False
     )
 
     user_id = db.Column(
         db.Integer,
-        db.ForeignKey('tbl_advertiser_users.id'),
+        # db.ForeignKey('tbl_advertiser_users.id'),
         nullable=False
     )
 
