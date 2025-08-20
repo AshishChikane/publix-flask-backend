@@ -1,60 +1,36 @@
-name: Secret Scan
- 
+name Secret Scan   # ❌ missing colon
+
 on:
+  pull_request
+    branches [main]   # ❌ wrong indentation + missing colon
 
-  pull_request:
-
-    branches: [main]
- 
 permissions:
+   contents read   # ❌ invalid format (should be contents: read)
 
-  contents: read
- 
 jobs:
+  secret-scan
+    runs-on ubuntu-latest   # ❌ missing colons everywhere
 
-  secret-scan:
+    steps
+      - name Checkout full history
+        uses actions/checkout@v4
+        with
+          fetch-depth=0   # ❌ should be fetch-depth: 0
 
-    runs-on: ubuntu-latest
-
-    steps:
-
-      - name: Checkout full history
-
-        uses: actions/checkout@v4
-
-        with:
-
-          fetch-depth: 0
- 
-      - name: Run Gitleaks (Docker)
-
-        run: |
-
+      - name Run Gitleaks (Docker)
+        run |
           docker run --rm \
+          -v "${{ github.workspace }}:/repo" \
+          zricethezav/gitleaks:latest detect \
+          --source="/repo" \
+          --redact \
+          --exit-code 1 \
+          --report-format="json" \
+          --report-path="/repo/gitleaks-report.json"
 
-            -v "${{ github.workspace }}:/repo" \
-
-            zricethezav/gitleaks:latest detect \
-
-            --source="/repo" \
-
-            --redact \
-
-            --exit-code 1 \
-
-            --report-format="json" \
-
-            --report-path="/repo/gitleaks-report.json"
- 
-      - name: Upload report artifact
-
-        if: always()
-
-        uses: actions/upload-artifact@v4
-
-        with:
-
-          name: gitleaks-report
-
-          path: gitleaks-report.json
- 
+      - name Upload report artifact
+        if always()   # ❌ wrong condition format
+        uses actions/upload-artifact@v4
+        with
+          name gitleaks-report
+          path gitleaks-report.json
